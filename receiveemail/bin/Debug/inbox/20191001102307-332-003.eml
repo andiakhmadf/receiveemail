@@ -1,0 +1,936 @@
+Delivered-To: agile678@gmail.com
+Received: by 10.76.35.41 with SMTP id e9csp98209oaj;
+        Mon, 20 May 2013 19:03:24 -0700 (PDT)
+Return-Path: <369WaUQcLCJQBCF2D9MMCIHIz2.0CAY4692UVW4Ay69.0CA@youtube-subscriptions.bounces.google.com>
+Received-SPF: pass (google.com: domain of 369WaUQcLCJQBCF2D9MMCIHIz2.0CAY4692UVW4Ay69.0CA@youtube-subscriptions.bounces.google.com designates 10.50.43.168 as permitted sender) client-ip=10.50.43.168
+Authentication-Results: mr.google.com;
+       spf=pass (google.com: domain of 369WaUQcLCJQBCF2D9MMCIHIz2.0CAY4692UVW4Ay69.0CA@youtube-subscriptions.bounces.google.com designates 10.50.43.168 as permitted sender) smtp.mail=369WaUQcLCJQBCF2D9MMCIHIz2.0CAY4692UVW4Ay69.0CA@youtube-subscriptions.bounces.google.com;
+       dkim=pass header.i=@youtube.com
+X-Received: from mr.google.com ([10.50.43.168])
+        by 10.50.43.168 with SMTP id x8mr11628806igl.6.1369101803994 (num_hops = 1);
+        Mon, 20 May 2013 19:03:23 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=youtube.com; s=20120806;
+        h=mime-version:list-unsubscribe:message-id:date:subject:from:to
+         :content-type;
+        bh=UP3tkGfCU+dilLz+cb3T4Fxq44L+fWCqWwm4DdUEyvc=;
+        b=SFRA/Z1eWcaQ+JNlR7sdfNrxaMAEUWSRALkrt+YWBeH05T3e6q1bia8/c6upBksTjV
+         195Fp91YcNJxF32IZTbZIA8onh/4/JjfkdE4UTvqDK9Arukf7NdrlDYh39iCKlXY0SBc
+         FSD4OE9bxE0CH9sRUFXCjepWGlowTHWfHAgi1Pl4HG0q3yQP4zHONj5/MrzCCZREma0w
+         uHDGD77XFUH+TT/WMKzm3tZP/QMtUIORDAeGz621FrSP7+YLMA/cl7g4SzMxNZjDtL/U
+         VM+8MmdxuQeiac+J+eYv7oTxzhTT2jnUGoEJCrcW4XK9pN0PXUvDBo8ZsCeA4uBuN/qi
+         HHeA==
+MIME-Version: 1.0
+X-Received: by 10.50.43.168 with SMTP id x8mr7265689igl.6.1369101803110; Mon,
+ 20 May 2013 19:03:23 -0700 (PDT)
+List-Unsubscribe: <http://www.youtube.com/email_unsubscribe?uid=0FuM0jlOaQXFmpgjIDBICw&action_unsubscribe=nSvESYUh82X6XS6VWiKOiqycW6J8MTM2OTEwMTgwM0AxMzY5MTAxODAz&feature=em-subs_digest>
+Message-ID: <089e01184ac2a2c25104dd30dad5@google.com>
+Date: Tue, 21 May 2013 02:03:23 +0000
+Subject: "Fatin Shidqia Lubis - AKU MEMILIH SETIA - X Factor Indonesia - 17 M..."
+From: YouTube <noreply@youtube.com>
+To: Andi Akmad Fauzi <Agile678@gmail.com>
+Content-Type: multipart/alternative; boundary=089e01184ac2a2c23d04dd30dad2
+
+--089e01184ac2a2c23d04dd30dad2
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed; delsp=yes
+
+
+Here are the newest videos from each of your subscriptions. To change the  
+subscriptions for which you receive updates, or to turn off updates, go to  
+your email options:
+http://www.youtube.com/account_notifications?feature=em-subs_digest
+----------------------------------------------------------------
+Latest subscription updates
+----------------------------------------------------------------
+Fatin Shidqia Lubis - AKU MEMILIH SETIA - X Factor Indonesia - 17 MEI 2013  
+HDTV: http://youtu.be/IwsFVWjyJj4
+- Uploaded by Popular on YouTube - Indonesia [+4 videos]
+One Take Song Mash-Up (high school AHOL, CZECH REPUBLIC),song Daniel Kim -  
+Pop Danthology 2012, 2013: http://youtu.be/0cwyiClQ6aE
+- Uploaded by Pop music [+4 videos]
+Bleep Bloop: Power Rangers Kinect: http://youtu.be/d779LZ867Lk
+- Uploaded by collegehumor [+5 videos]
+Arya Wiguna, Demi Tuhan : Ups Salah ( EPISODE: 352 ):  
+http://youtu.be/y_2TBNshyow
+- Uploaded by Evan Vibration [+6 videos]
+I'm Yours - Jason Mraz ft. Sungha Jung: http://youtu.be/MycEFlLDOkY
+- Uploaded by jwcfree [+1 video]
+----------------------------------------------------------------
+
+--089e01184ac2a2c23d04dd30dad2
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+
+<html lang=3D"en">
+<head>
+<title>
+Just for You from YouTube: Weekly Update - May 21, 2013
+</title>
+<style>
+* {
+font-family: arial, Arial, sans-serif;
+}
+@media only screen and (max-device-width: 480px) {
+body[class=3Dsuppress-border-on-mobile] {
+margin: 0 !important;
+border: 0 !important;
+padding: 0 !important;
+}
+table[class=3Dsuppress-on-mobile], td[class=3Dsuppress-on-mobile], div[clas=
+s=3Dsuppress-on-mobile], img[class=3Dsuppress-on-mobile], span[class=3Dsupp=
+ress-on-mobile] {
+display: none !important;
+width: 0px !important;
+height: 0px !important;
+line-height: 0px !important;
+margin: 0 !important;
+border: 0 !important;
+padding: 0 !important;
+}
+table[class=3Douter-container-width], td[class=3Douter-container-width], ta=
+ble[class=3Dinner-container-width], td[class=3Dinner-container-width], tabl=
+e[class=3Dheader-container-width], td[class=3Dheader-container-width] {
+width: 320px !important;
+}
+td[class=3Dheader-left-size], img[class=3Dheader-left-size], td[class=3Dhea=
+der-right-size], img[class=3Dheader-right-size] {
+width: 115px !important;
+height: 23px !important;
+}
+td[class=3Dheader-logo-size], img[class=3Dheader-logo-size] {
+width: 90px !important;
+height: 36px !important;
+}
+table[class=3Dcontent-container-pad-width], td[class=3Dcontent-container-pa=
+d-width] {
+width: 32px !important;
+}
+table[class=3Dcontent-container-width], td[class=3Dcontent-container-width]=
+, div[class=3Dcontent-container-width] {
+width: 256px !important;
+margin: 0px !important;
+}
+table[class=3Dvideo-spotlight-width], td[class=3Dvideo-spotlight-width], ta=
+ble[class=3Dvideo-2col-width], td[class=3Dvideo-2col-width], table[class=3D=
+video-3col-width], td[class=3Dvideo-3col-width], table[class=3Dinner-3col-c=
+ontent-container-width], td[class=3Dinner-3col-content-container-width] {
+width: 256px !important;
+}
+table[class=3Dvideo-2col-with-avatars-width], td[class=3Dvideo-2col-with-av=
+atars-width] {
+width: 216px !important;
+}
+td[class=3Dvideo-spotlight-size], img[class=3Dvideo-spotlight-size], img[cl=
+ass=3Dvideo-2col-size], img[class=3Dvideo-3col-size] {
+width: 256px !important;
+height: 144px !important;
+}
+td[class=3Dplaylist-spotlight-size], img[class=3Dplaylist-spotlight-size], =
+td[class=3Dplaylist-2col-size], img[class=3Dplaylist-2col-size] {
+width: 204px !important;
+height: 115px !important;
+}
+table[class=3Dplaylist-spotlight-thumbs-container-size], td[class=3Dplaylis=
+t-spotlight-thumbs-container-size], table[class=3Dplaylist-2col-thumbs-cont=
+ainer-size], td[class=3Dplaylist-2col-thumbs-container-size] {
+width: 52px !important;
+height: 132px !important;
+}
+td[class=3Dplaylist-spotlight-thumbs-count-size], td[class=3Dplaylist-2col-=
+thumbs-count-size] {
+width: 52px !important;
+height: 36px !important;
+}
+td[class=3Dplaylist-spotlight-thumb-container-size], td[class=3Dplaylist-2c=
+ol-thumb-container-size] {
+width: 52px !important;
+height: 32px !important;
+}
+img[class=3Dplaylist-spotlight-thumb-size], img[class=3Dplaylist-2col-thumb=
+-size] {
+width: 48px !important;
+height: 27px !important;
+}
+table[class=3Dchannel-summary-width], td[class=3Dchannel-summary-width] {
+width: 205px !important;
+}
+td[class=3Dalign-left], span[class=3Dalign-left] {
+width: 256px !important;
+align: left !important;
+text-align: left !important;
+}
+td[class=3Dbanner-size], img[class=3Dbanner-size] {
+width: 256px !important;
+height: 32px !important;
+}
+div[class=3Dbanner-font], a[class=3Dbanner-link-font] {
+font-size: 11px !important;
+line-height: 13px !important;
+color: #999999;
+text-decoration: none;
+}
+table[class=3Dtext-pad-height], td[class=3Dtext-pad-height] {
+height: 7px !important;
+}
+table[class=3Dsmall-pad-height], td[class=3Dsmall-pad-height] {
+height: 12px !important;
+}
+table[class=3Dlarge-pad-height], td[class=3Dlarge-pad-height] {
+height: 16px !important;
+}
+img[class=3Davatar-size] {
+width: 30px !important;
+height: 30px !important;
+}
+table[class=3Dfooter-pad-width], td[class=3Dfooter-pad-width] {
+width: 20px !important;
+}
+table[class=3Dfooter-width], td[class=3Dfooter-width] {
+width: 280px !important;
+}
+table[class=3Dmore-videos-text-width], td[class=3Dmore-videos-text-width] {
+width: 166px !important;
+}
+table[class=3Dmore-videos-link-width], td[class=3Dmore-videos-link-width] {
+width: 90px !important;
+}
+span[class=3Dmore-videos-link-size] {
+width: 90px !important;
+height: 26px !important;
+}
+div[class=3Dsection-title-font] {
+font-size: 14px !important;
+}
+div[class=3Dsection-subtitle-font] {
+font-size: 12px !important;
+}
+div[class=3Dgreeting-font], div[class=3Dmore-link-font] {
+font-size: 14px !important;
+line-height: 16px !important;
+}
+div[class=3Dregular-text-font] {
+font-size: 11px !important;
+}
+div[class=3Dsystem-message-font] {
+font-size: 11px !important;
+line-height: 13px !important;
+}
+div[class=3Dspotlight-title-font], a[class=3Dspotlight-title-font] {
+font-size: 13px !important;
+line-height: 15px !important;
+}
+div[class=3Dspotlight-title-without-owner-font], a[class=3Dspotlight-title-=
+without-owner-font] {
+font-size: 20px !important;
+line-height: 24px !important;
+}
+div[class=3Dspotlight-link-font], a[class=3Dspotlight-link-font] {
+font-size: 11px !important;
+line-height: 13px !important;
+}
+div[class=3Dvideo-title-font-class], a[class=3Dvideo-title-font-class] {
+font-size: 11px !important;
+line-height: 13px !important;
+}
+div[class=3Dvideo-link-font-class], a[class=3Dvideo-link-font-class], span[=
+class=3Dvideo-link-font-class] {
+font-size: 10px !important;
+line-height: 12px !important;
+}
+div[class=3Dplaylist-spotlight-thumbs-count-number-font], div[class=3Dplayl=
+ist-2col-thumbs-count-number-font] {
+font-size: 14px !important;
+}
+div[class=3Dplaylist-spotlight-thumbs-count-text-font], div[class=3Dplaylis=
+t-2col-thumbs-count-text-font] {
+font-size: 12px !important;
+}
+div[class=3Dfooter-font] {
+font-size: 10px !important;
+line-height: 13px !important;
+}
+}
+</style>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</head>
+<body class=3D"suppress-border-on-mobile">
+<table class=3D"outer-container-width" width=3D"640" align=3D"center" cells=
+pacing=3D"0" cellpadding=3D"0" border=3D"0"><tr><td class=3D"suppress-on-mo=
+bile" width=3D"22" bgcolor=3D"#F0F0F0"></td><td class=3D"inner-container-wi=
+dth" width=3D"596" bgcolor=3D"#F0F0F0">
+<table class=3D"inner-container-width" width=3D"596" align=3D"center" cells=
+pacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"suppress-on-mobile" height=3D"16"></td>
+</tr>
+<tr>
+<td class=3D"inner-container-width" width=3D"596">
+<table class=3D"header-container-width" width=3D"596" align=3D"center" vali=
+gn=3D"top" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td width=3D"9"></td>
+<td class=3D"header-left-size" width=3D"230" height=3D"47" align=3D"left" v=
+align=3D"center">
+<img class=3D"header-left-size" width=3D"230" height=3D"47" src=3D"http://w=
+ww.gstatic.com/youtube/img/email/email_header_left.png" />
+</td>
+<td class=3D"header-logo-size" width=3D"118" height=3D"47" align=3D"center"=
+ valign=3D"center">
+<img class=3D"header-logo-size" width=3D"118" height=3D"47" src=3D"http://w=
+ww.gstatic.com/youtube/img/email/email_header_logo.png" />
+</td>
+<td class=3D"header-right-size" width=3D"230" height=3D"47" align=3D"right"=
+ valign=3D"center">
+<img class=3D"header-right-size" width=3D"230" height=3D"47" src=3D"http://=
+www.gstatic.com/youtube/img/email/email_header_right.png" />
+</td>
+<td width=3D"9"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class=3D"suppress-on-mobile" height=3D"16"></td>
+</tr>
+<tr>
+<td class=3D"inner-container-width" width=3D"596" align=3D"left" bgcolor=3D=
+"#FFFFFF">
+<div style=3D"border-style:solid; border-width:1px; border-color:#CCCCCC;">
+<table class=3D"inner-container-width" width=3D"596" align=3D"center" cells=
+pacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"small-pad-height" height=3D"22" colspan=3D"3"></td>
+</tr>
+<tr>
+<td class=3D"content-container-pad-width" width=3D"40"></td>
+<td class=3D"content-container-width" width=3D"516">
+<table class=3D"content-container-width" width=3D"516" cellspacing=3D"0" ce=
+llpadding=3D"0" border=3D"0">
+<tr>
+<td>
+<div class=3D"greeting-font" style=3D"font-family:arial,Arial,sans-serif; f=
+ont-size:18px; line-height:24px; color:#333333; -webkit-text-size-adjust:no=
+ne;">
+<B>Andi Akmad Fauzi</B>, check out the latest videos from your channel subs=
+criptions for May 21, 2013.
+&nbsp;<a href=3D"http://www.youtube.com/watch_videos?video_ids=3DIwsFVWjyJj=
+4%2CT-mDIvwhyE8%2CadqapCZiVuk%2CvTXZJClllVQ%2CUdMHThSw3C8%2C0cwyiClQ6aE%2C8=
+gCNE7rIxYs%2CzMkZ3YyRgm8%2Cd4FT7RZmvpo%2Cxlh7o4vogDk%2Cd779LZ867Lk%2CzDObXO=
+N-kZo%2CauJNRtI3QpY%2CLx2KZaOwG6o%2CXmXMvfirF2g%2CIc11O7A0M7U%2Cy_2TBNshyow=
+%2CStwYGdbwOqc%2CIbQ8-0_RWDk%2CwfEiIhe15RU%2CYCczoByR1_I%2CBtczgE_mK-Y%2CVr=
+7vS8y63aU%2CMycEFlLDOkY%2CYgLFG4JAeDQ&no_autoplay=3D1&feature=3Dem-subs_dig=
+est&title=3DLatest videos for Andi Akmad Fauzi for May 21, 2013" style=3D"f=
+ont-family:arial,Arial,sans-serif; font-size:11px; color:#333333; text-deco=
+ration: none; -webkit-text-size-adjust:none;">Play all &raquo;</a>
+</div>
+</td>
+</tr>
+</table>
+<table class=3D"suppress-on-mobile" height=3D"22" cellspacing=3D"0" cellpad=
+ding=3D"0" border=3D"0">
+<tr>
+<td class=3D"suppress-on-mobile" height=3D"22"></td>
+</tr>
+</table>
+<div class=3D"suppress-on-mobile" style=3D"border-bottom:1px solid #E1E1E1"=
+></div>
+<table class=3D"suppress-on-mobile" height=3D"22" cellspacing=3D"0" cellpad=
+ding=3D"0" border=3D"0">
+<tr>
+<td class=3D"suppress-on-mobile" height=3D"22"></td>
+</tr>
+</table>
+<table class=3D"large-pad-height" height=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" border=3D"0">
+<tr>
+<td class=3D"large-pad-height" height=3D"0"></td>
+</tr>
+</table>
+<table class=3D"content-container-width" width=3D"516" cellspacing=3D"0" ce=
+llpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"content-container-width" width=3D"516">
+<table class=3D"content-container-width" width=3D"516" cellspacing=3D"0" ce=
+llpadding=3D"0" border=3D"0">
+<tr><td class=3D"content-container-width" width=3D"516" valign=3D"top">
+<table class=3D"video-2col-width" width=3D"240" align=3D"left" valign=3D"to=
+p" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr><td class=3D"video-2col-width" width=3D"240" valign=3D"top">
+<a href=3D"http://www.youtube.com/watch_videos?video_ids=3DIwsFVWjyJj4%2CT-=
+mDIvwhyE8%2CadqapCZiVuk%2CvTXZJClllVQ%2CUdMHThSw3C8&no_autoplay=3D1&feature=
+=3Dem-subs_digest&title=3DLatest videos from Popular on YouTube - Indonesia=
+ for May 21, 2013" style=3D"text-decoration:none; display:block;" class=3D"=
+nonplayable">
+<img class=3D"video-2col-size" src=3D"http://i4.ytimg.com/vi/IwsFVWjyJj4/mq=
+default.jpg" width=3D"240" height=3D"135" border=3D"0">
+</a>
+<table class=3D"text-pad-height" height=3D"11" cellspacing=3D"0" cellpaddin=
+g=3D"0" border=3D"0">
+<tr>
+<td class=3D"text-pad-height" height=3D"11"></td>
+</tr>
+</table>
+<table class=3D"video-2col-width" width=3D"240" cellspacing=3D"0" cellpaddi=
+ng=3D"0" border=3D"0">
+<tr>
+<td class=3D"video-2col-width" width=3D"240">
+<a href=3D"http://www.youtube.com/watch_videos?video_ids=3DIwsFVWjyJj4%2CT-=
+mDIvwhyE8%2CadqapCZiVuk%2CvTXZJClllVQ%2CUdMHThSw3C8&no_autoplay=3D1&feature=
+=3Dem-subs_digest&title=3DLatest videos from Popular on YouTube - Indonesia=
+ for May 21, 2013" style=3D"text-decoration:none;">
+<div class=3D"video-title-font-class" style=3D"font-family:arial,Arial,sans=
+-serif; font-size:13px; font-weight:bold; color:#333333; line-height:15px; =
+-webkit-text-size-adjust:none;">
+Fatin Shidqia Lubis - AKU MEMILIH SETIA - X Factor Indonesia - 17 M...
+</div>
+</a>
+<div class=3D"video-link-font-class" style=3D"font-family:arial,Arial,sans-=
+serif; font-size:11px; color:#999999; line-height:18px; -webkit-text-size-a=
+djust:none;">
+<a href=3D"http://www.youtube.com/watch_videos?video_ids=3DIwsFVWjyJj4%2CT-=
+mDIvwhyE8%2CadqapCZiVuk%2CvTXZJClllVQ%2CUdMHThSw3C8&no_autoplay=3D1&feature=
+=3Dem-subs_digest&title=3DLatest videos from Popular on YouTube - Indonesia=
+ for May 21, 2013" style=3D"text-decoration:none">
+<span class=3D"video-link-font-class" style=3D"margin-top:6px; display:inli=
+ne-block; background-color:#999999; font-family:arial,Arial,sans-serif; fon=
+t-size:11px; font-weight:bold; color:#FFFFFF; line-height:18px; text-align:=
+center; -moz-border-radius: 3px; -webkit-border-radius: 3px; -khtml-border-=
+radius: 3px; border-radius: 3px; -webkit-text-size-adjust:none;">+ 4&nbsp;
+videos
+</span>
+</a>
+&nbsp;
+<a href=3D"http://www.youtube.com/topic/iTWmjDTpiCY" style=3D"font-family:a=
+rial,Arial,sans-serif; color:#999999; text-decoration:none;">added to topic=
+ - Popular on YouTube - Indonesia</a>
+</div>
+</td>
+</tr>
+</table>
+<table class=3D"large-pad-height" height=3D"22" cellspacing=3D"0" cellpaddi=
+ng=3D"0" border=3D"0">
+<tr>
+<td class=3D"large-pad-height" height=3D"22"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class=3D"video-2col-width" width=3D"240" align=3D"right" valign=3D"t=
+op" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr><td class=3D"video-2col-width" width=3D"240" valign=3D"top">
+<a href=3D"http://www.youtube.com/watch_videos?video_ids=3D0cwyiClQ6aE%2C8g=
+CNE7rIxYs%2CzMkZ3YyRgm8%2Cd4FT7RZmvpo%2Cxlh7o4vogDk&no_autoplay=3D1&feature=
+=3Dem-subs_digest&title=3DLatest videos from Pop music for May 21, 2013" st=
+yle=3D"text-decoration:none; display:block;" class=3D"nonplayable">
+<img class=3D"video-2col-size" src=3D"http://i2.ytimg.com/vi/0cwyiClQ6aE/mq=
+default.jpg" width=3D"240" height=3D"135" border=3D"0">
+</a>
+<table class=3D"text-pad-height" height=3D"11" cellspacing=3D"0" cellpaddin=
+g=3D"0" border=3D"0">
+<tr>
+<td class=3D"text-pad-height" height=3D"11"></td>
+</tr>
+</table>
+<table class=3D"video-2col-width" width=3D"240" cellspacing=3D"0" cellpaddi=
+ng=3D"0" border=3D"0">
+<tr>
+<td class=3D"video-2col-width" width=3D"240">
+<a href=3D"http://www.youtube.com/watch_videos?video_ids=3D0cwyiClQ6aE%2C8g=
+CNE7rIxYs%2CzMkZ3YyRgm8%2Cd4FT7RZmvpo%2Cxlh7o4vogDk&no_autoplay=3D1&feature=
+=3Dem-subs_digest&title=3DLatest videos from Pop music for May 21, 2013" st=
+yle=3D"text-decoration:none;">
+<div class=3D"video-title-font-class" style=3D"font-family:arial,Arial,sans=
+-serif; font-size:13px; font-weight:bold; color:#333333; line-height:15px; =
+-webkit-text-size-adjust:none;">
+One Take Song Mash-Up (high school AHOL, CZECH REPUBLIC),song Danie...
+</div>
+</a>
+<div class=3D"video-link-font-class" style=3D"font-family:arial,Arial,sans-=
+serif; font-size:11px; color:#999999; line-height:18px; -webkit-text-size-a=
+djust:none;">
+<a href=3D"http://www.youtube.com/watch_videos?video_ids=3D0cwyiClQ6aE%2C8g=
+CNE7rIxYs%2CzMkZ3YyRgm8%2Cd4FT7RZmvpo%2Cxlh7o4vogDk&no_autoplay=3D1&feature=
+=3Dem-subs_digest&title=3DLatest videos from Pop music for May 21, 2013" st=
+yle=3D"text-decoration:none">
+<span class=3D"video-link-font-class" style=3D"margin-top:6px; display:inli=
+ne-block; background-color:#999999; font-family:arial,Arial,sans-serif; fon=
+t-size:11px; font-weight:bold; color:#FFFFFF; line-height:18px; text-align:=
+center; -moz-border-radius: 3px; -webkit-border-radius: 3px; -khtml-border-=
+radius: 3px; border-radius: 3px; -webkit-text-size-adjust:none;">+ 4&nbsp;
+videos
+</span>
+</a>
+&nbsp;
+<a href=3D"http://www.youtube.com/topic/LtJ0LlfRIMg" style=3D"font-family:a=
+rial,Arial,sans-serif; color:#999999; text-decoration:none;">added to topic=
+ - Pop music</a>
+</div>
+</td>
+</tr>
+</table>
+<table class=3D"large-pad-height" height=3D"22" cellspacing=3D"0" cellpaddi=
+ng=3D"0" border=3D"0">
+<tr>
+<td class=3D"large-pad-height" height=3D"22"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td></tr>
+<tr><td class=3D"content-container-width" width=3D"516" valign=3D"top">
+<table class=3D"video-2col-width" width=3D"240" align=3D"left" valign=3D"to=
+p" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr><td class=3D"video-2col-width" width=3D"240" valign=3D"top">
+<a href=3D"http://www.youtube.com/watch_videos?video_ids=3Dd779LZ867Lk%2CzD=
+ObXON-kZo%2CauJNRtI3QpY%2CLx2KZaOwG6o%2CXmXMvfirF2g%2CIc11O7A0M7U&no_autopl=
+ay=3D1&feature=3Dem-subs_digest&title=3DLatest videos from collegehumor for=
+ May 21, 2013" style=3D"text-decoration:none; display:block;" class=3D"nonp=
+layable">
+<img class=3D"video-2col-size" src=3D"http://i1.ytimg.com/vi/d779LZ867Lk/mq=
+default.jpg" width=3D"240" height=3D"135" border=3D"0">
+</a>
+<table class=3D"text-pad-height" height=3D"11" cellspacing=3D"0" cellpaddin=
+g=3D"0" border=3D"0">
+<tr>
+<td class=3D"text-pad-height" height=3D"11"></td>
+</tr>
+</table>
+<table class=3D"video-2col-width" width=3D"240" cellspacing=3D"0" cellpaddi=
+ng=3D"0" border=3D"0">
+<tr>
+<td class=3D"video-2col-width" width=3D"240">
+<a href=3D"http://www.youtube.com/watch_videos?video_ids=3Dd779LZ867Lk%2CzD=
+ObXON-kZo%2CauJNRtI3QpY%2CLx2KZaOwG6o%2CXmXMvfirF2g%2CIc11O7A0M7U&no_autopl=
+ay=3D1&feature=3Dem-subs_digest&title=3DLatest videos from collegehumor for=
+ May 21, 2013" style=3D"text-decoration:none;">
+<div class=3D"video-title-font-class" style=3D"font-family:arial,Arial,sans=
+-serif; font-size:13px; font-weight:bold; color:#333333; line-height:15px; =
+-webkit-text-size-adjust:none;">
+Bleep Bloop: Power Rangers Kinect
+</div>
+</a>
+<div class=3D"video-link-font-class" style=3D"font-family:arial,Arial,sans-=
+serif; font-size:11px; color:#999999; line-height:18px; -webkit-text-size-a=
+djust:none;">
+<a href=3D"http://www.youtube.com/watch_videos?video_ids=3Dd779LZ867Lk%2CzD=
+ObXON-kZo%2CauJNRtI3QpY%2CLx2KZaOwG6o%2CXmXMvfirF2g%2CIc11O7A0M7U&no_autopl=
+ay=3D1&feature=3Dem-subs_digest&title=3DLatest videos from collegehumor for=
+ May 21, 2013" style=3D"text-decoration:none">
+<span class=3D"video-link-font-class" style=3D"margin-top:6px; display:inli=
+ne-block; background-color:#999999; font-family:arial,Arial,sans-serif; fon=
+t-size:11px; font-weight:bold; color:#FFFFFF; line-height:18px; text-align:=
+center; -moz-border-radius: 3px; -webkit-border-radius: 3px; -khtml-border-=
+radius: 3px; border-radius: 3px; -webkit-text-size-adjust:none;">+ 5&nbsp;
+videos
+</span>
+</a>
+&nbsp;
+<a href=3D"http://www.youtube.com/user/collegehumor?feature=3Dem-subs_diges=
+t" style=3D"font-family:arial,Arial,sans-serif; color:#999999; text-decorat=
+ion:none;">by collegehumor</a>
+</div>
+</td>
+</tr>
+</table>
+<table class=3D"large-pad-height" height=3D"22" cellspacing=3D"0" cellpaddi=
+ng=3D"0" border=3D"0">
+<tr>
+<td class=3D"large-pad-height" height=3D"22"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class=3D"video-2col-width" width=3D"240" align=3D"right" valign=3D"t=
+op" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr><td class=3D"video-2col-width" width=3D"240" valign=3D"top">
+<a href=3D"http://www.youtube.com/watch_videos?video_ids=3Dy_2TBNshyow%2CSt=
+wYGdbwOqc%2CIbQ8-0_RWDk%2CwfEiIhe15RU%2CYCczoByR1_I%2CBtczgE_mK-Y%2CVr7vS8y=
+63aU&no_autoplay=3D1&feature=3Dem-subs_digest&title=3DLatest videos from Ev=
+an Vibration for May 21, 2013" style=3D"text-decoration:none; display:block=
+;" class=3D"nonplayable">
+<img class=3D"video-2col-size" src=3D"http://i3.ytimg.com/vi/y_2TBNshyow/mq=
+default.jpg" width=3D"240" height=3D"135" border=3D"0">
+</a>
+<table class=3D"text-pad-height" height=3D"11" cellspacing=3D"0" cellpaddin=
+g=3D"0" border=3D"0">
+<tr>
+<td class=3D"text-pad-height" height=3D"11"></td>
+</tr>
+</table>
+<table class=3D"video-2col-width" width=3D"240" cellspacing=3D"0" cellpaddi=
+ng=3D"0" border=3D"0">
+<tr>
+<td class=3D"video-2col-width" width=3D"240">
+<a href=3D"http://www.youtube.com/watch_videos?video_ids=3Dy_2TBNshyow%2CSt=
+wYGdbwOqc%2CIbQ8-0_RWDk%2CwfEiIhe15RU%2CYCczoByR1_I%2CBtczgE_mK-Y%2CVr7vS8y=
+63aU&no_autoplay=3D1&feature=3Dem-subs_digest&title=3DLatest videos from Ev=
+an Vibration for May 21, 2013" style=3D"text-decoration:none;">
+<div class=3D"video-title-font-class" style=3D"font-family:arial,Arial,sans=
+-serif; font-size:13px; font-weight:bold; color:#333333; line-height:15px; =
+-webkit-text-size-adjust:none;">
+Arya Wiguna, Demi Tuhan : Ups Salah ( EPISODE: 352 )
+</div>
+</a>
+<div class=3D"video-link-font-class" style=3D"font-family:arial,Arial,sans-=
+serif; font-size:11px; color:#999999; line-height:18px; -webkit-text-size-a=
+djust:none;">
+<a href=3D"http://www.youtube.com/watch_videos?video_ids=3Dy_2TBNshyow%2CSt=
+wYGdbwOqc%2CIbQ8-0_RWDk%2CwfEiIhe15RU%2CYCczoByR1_I%2CBtczgE_mK-Y%2CVr7vS8y=
+63aU&no_autoplay=3D1&feature=3Dem-subs_digest&title=3DLatest videos from Ev=
+an Vibration for May 21, 2013" style=3D"text-decoration:none">
+<span class=3D"video-link-font-class" style=3D"margin-top:6px; display:inli=
+ne-block; background-color:#999999; font-family:arial,Arial,sans-serif; fon=
+t-size:11px; font-weight:bold; color:#FFFFFF; line-height:18px; text-align:=
+center; -moz-border-radius: 3px; -webkit-border-radius: 3px; -khtml-border-=
+radius: 3px; border-radius: 3px; -webkit-text-size-adjust:none;">+ 6&nbsp;
+videos
+</span>
+</a>
+&nbsp;
+<a href=3D"http://www.youtube.com/user/evanvibration?feature=3Dem-subs_dige=
+st" style=3D"font-family:arial,Arial,sans-serif; color:#999999; text-decora=
+tion:none;">by Evan Vibration</a>
+</div>
+</td>
+</tr>
+</table>
+<table class=3D"large-pad-height" height=3D"22" cellspacing=3D"0" cellpaddi=
+ng=3D"0" border=3D"0">
+<tr>
+<td class=3D"large-pad-height" height=3D"22"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td></tr>
+<tr><td class=3D"content-container-width" width=3D"516" valign=3D"top">
+<table class=3D"video-2col-width" width=3D"240" align=3D"left" valign=3D"to=
+p" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr><td class=3D"video-2col-width" width=3D"240" valign=3D"top">
+<table class=3D"video-2col-width" width=3D"240" cellspacing=3D"0" cellpaddi=
+ng=3D"0" border=3D"0">
+<tr>
+<td class=3D"playlist-2col-size" width=3D"180" height=3D"120" bgcolor=3D"#3=
+33333">
+<a href=3D"http://www.youtube.com/playlist?list=3DPLLvOM9DzIw_wCv69D5Jy_BJ9=
+R8vftNSZC&playnext=3D1&feature=3Dem-subs_digest" style=3D"text-decoration:n=
+one; display:block;" class=3D"nonplayable">
+<img class=3D"playlist-2col-size" src=3D"http://i3.ytimg.com/vi/KGo6GMQnUlI=
+/hqdefault.jpg?w=3D480&h=3D270&feature=3Dem-subs_digest&sigh=3D-VKe_zavC2NV=
+kJWPjXKk0iq7eTY" width=3D"172" height=3D"97" align=3D"right" valign=3D"cent=
+er" style=3D"border:1px solid #000000;">
+</a>
+</td>
+<td class=3D"playlist-2col-thumbs-container-size" width=3D"60" height=3D"12=
+0" align=3D"center" valign=3D"top">
+<a href=3D"http://www.youtube.com/playlist?list=3DPLLvOM9DzIw_wCv69D5Jy_BJ9=
+R8vftNSZC&playnext=3D1&feature=3Dem-subs_digest" style=3D"text-decoration:n=
+one; display:block;" class=3D"nonplayable">
+<table class=3D"playlist-2col-thumbs-container-size" width=3D"60" height=3D=
+"120" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"playlist-2col-thumbs-container-size" width=3D"60" height=3D"12=
+0" valign=3D"top" bgcolor=3D"#333333">
+<table class=3D"playlist-2col-thumbs-container-size" width=3D"60" height=3D=
+"120" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"playlist-2col-thumbs-count-size" bgcolor=3D"#333333" width=3D"=
+60" height=3D"30" align=3D"center" valign=3D"center">
+<div class=3D"playlist-2col-thumbs-count-number-font" style=3D"font-size:14=
+px; font-weight:bold; color:#CECECE; -webkit-text-size-adjust:none;">
+47
+</div>
+<div class=3D"playlist-2col-thumbs-count-text-font" style=3D"font-size:10px=
+; font-weight:bold; color:#CECECE; -webkit-text-size-adjust:none;">
+videos
+</div>
+</td>
+</tr>
+<tr>
+<td class=3D"playlist-2col-thumb-container-size" width=3D"60" height=3D"30"=
+ bgcolor=3D"#333333" align=3D"center" valign=3D"top">
+<img class=3D"playlist-2col-thumb-size" src=3D"http://i4.ytimg.com/vi/-yF7x=
+3PBJRU/mqdefault.jpg" style=3D"border:1px solid #A1A1A1;" width=3D"44px" he=
+ight=3D"24px">
+</td>
+</tr>
+<tr>
+<td class=3D"playlist-2col-thumb-container-size" width=3D"60" height=3D"30"=
+ bgcolor=3D"#333333" align=3D"center" valign=3D"top">
+<img class=3D"playlist-2col-thumb-size" src=3D"http://i3.ytimg.com/vi/y_2TB=
+Nshyow/mqdefault.jpg" style=3D"border:1px solid #A1A1A1;" width=3D"44px" he=
+ight=3D"24px">
+</td>
+</tr>
+<tr>
+<td class=3D"playlist-2col-thumb-container-size" width=3D"60" height=3D"30"=
+ bgcolor=3D"#333333" align=3D"center" valign=3D"top">
+<img class=3D"playlist-2col-thumb-size" src=3D"http://i2.ytimg.com/vi/Cv9Bu=
+4B-B_8/mqdefault.jpg" style=3D"border:1px solid #A1A1A1;" width=3D"44px" he=
+ight=3D"24px">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</a>
+</td>
+</tr>
+</table>
+<table class=3D"text-pad-height" height=3D"11" cellspacing=3D"0" cellpaddin=
+g=3D"0" border=3D"0">
+<tr>
+<td class=3D"text-pad-height" height=3D"11"></td>
+</tr>
+</table>
+<table class=3D"video-2col-width" width=3D"240" cellspacing=3D"0" cellpaddi=
+ng=3D"0" border=3D"0">
+<tr>
+<td class=3D"avatar-size" width=3D"30" height=3D"30" valign=3D"top">
+<a href=3D"http://www.youtube.com/user/evanvibration?feature=3Dem-subs_dige=
+st"><img class=3D"avatar-size" src=3D"https://lh6.googleusercontent.com/-1C=
+mgeXsyImk/AAAAAAAAAAI/AAAAAAAAAAA/ngaTThRlzLo/s50/photo.jpg" width=3D"30" h=
+eight=3D"30" border=3D"0"></a>
+</td>
+<td width=3D"10">
+</td>
+<td class=3D"video-2col-with-avatars-width" width=3D"200">
+<a href=3D"http://www.youtube.com/playlist?list=3DPLLvOM9DzIw_wCv69D5Jy_BJ9=
+R8vftNSZC&playnext=3D1&feature=3Dem-subs_digest" style=3D"text-decoration:n=
+one;">
+<div class=3D"video-title-font-class" style=3D"font-family:arial,Arial,sans=
+-serif; font-size:13px; font-weight:bold; color:#333333; line-height:15px; =
+-webkit-text-size-adjust:none;">
+Kumpulan Video Ups Salah - Trans 7
+</div>
+</a>
+<div class=3D"video-link-font-class" style=3D"font-family:arial,Arial,sans-=
+serif; font-size:11px; color:#999999; line-height:18px; -webkit-text-size-a=
+djust:none;">
+<a href=3D"http://www.youtube.com/playlist?list=3DPLLvOM9DzIw_wCv69D5Jy_BJ9=
+R8vftNSZC&playnext=3D1&feature=3Dem-subs_digest" style=3D"text-decoration:n=
+one;">
+<span style=3D"margin-top:4px; display:inline-block; background-color:#9999=
+99; font-family:arial,Arial,sans-serif; font-size:10px; font-weight:bold; c=
+olor:#FFFFFF; line-height:17px; text-align:center; -moz-border-radius: 3px;=
+ -webkit-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px;=
+ -webkit-text-size-adjust:none;" align=3D"center">PLAYLIST</span>
+</a>
+&nbsp;
+<a href=3D"http://www.youtube.com/user/evanvibration?feature=3Dem-subs_dige=
+st" style=3D"font-family:arial,Arial,sans-serif; color:#999999; text-decora=
+tion:none;">by Evan Vibration</a>
+</div>
+</td>
+</tr>
+</table>
+<table class=3D"large-pad-height" height=3D"22" cellspacing=3D"0" cellpaddi=
+ng=3D"0" border=3D"0">
+<tr>
+<td class=3D"large-pad-height" height=3D"22"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class=3D"video-2col-width" width=3D"240" align=3D"right" valign=3D"t=
+op" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr><td class=3D"video-2col-width" width=3D"240" valign=3D"top">
+<a href=3D"http://www.youtube.com/watch_videos?video_ids=3DMycEFlLDOkY%2CYg=
+LFG4JAeDQ&no_autoplay=3D1&feature=3Dem-subs_digest&title=3DLatest videos fr=
+om jwcfree for May 21, 2013" style=3D"text-decoration:none; display:block;"=
+ class=3D"nonplayable">
+<img class=3D"video-2col-size" src=3D"http://i3.ytimg.com/vi/MycEFlLDOkY/mq=
+default.jpg" width=3D"240" height=3D"135" border=3D"0">
+</a>
+<table class=3D"text-pad-height" height=3D"11" cellspacing=3D"0" cellpaddin=
+g=3D"0" border=3D"0">
+<tr>
+<td class=3D"text-pad-height" height=3D"11"></td>
+</tr>
+</table>
+<table class=3D"video-2col-width" width=3D"240" cellspacing=3D"0" cellpaddi=
+ng=3D"0" border=3D"0">
+<tr>
+<td class=3D"video-2col-width" width=3D"240">
+<a href=3D"http://www.youtube.com/watch_videos?video_ids=3DMycEFlLDOkY%2CYg=
+LFG4JAeDQ&no_autoplay=3D1&feature=3Dem-subs_digest&title=3DLatest videos fr=
+om jwcfree for May 21, 2013" style=3D"text-decoration:none;">
+<div class=3D"video-title-font-class" style=3D"font-family:arial,Arial,sans=
+-serif; font-size:13px; font-weight:bold; color:#333333; line-height:15px; =
+-webkit-text-size-adjust:none;">
+I'm Yours - Jason Mraz ft. Sungha Jung
+</div>
+</a>
+<div class=3D"video-link-font-class" style=3D"font-family:arial,Arial,sans-=
+serif; font-size:11px; color:#999999; line-height:18px; -webkit-text-size-a=
+djust:none;">
+<a href=3D"http://www.youtube.com/watch_videos?video_ids=3DMycEFlLDOkY%2CYg=
+LFG4JAeDQ&no_autoplay=3D1&feature=3Dem-subs_digest&title=3DLatest videos fr=
+om jwcfree for May 21, 2013" style=3D"text-decoration:none">
+<span class=3D"video-link-font-class" style=3D"margin-top:6px; display:inli=
+ne-block; background-color:#999999; font-family:arial,Arial,sans-serif; fon=
+t-size:11px; font-weight:bold; color:#FFFFFF; line-height:18px; text-align:=
+center; -moz-border-radius: 3px; -webkit-border-radius: 3px; -khtml-border-=
+radius: 3px; border-radius: 3px; -webkit-text-size-adjust:none;">+ 1&nbsp;
+video
+</span>
+</a>
+&nbsp;
+<a href=3D"http://www.youtube.com/user/jwcfree?feature=3Dem-subs_digest" st=
+yle=3D"font-family:arial,Arial,sans-serif; color:#999999; text-decoration:n=
+one;">by jwcfree</a>
+</div>
+</td>
+</tr>
+</table>
+<table class=3D"large-pad-height" height=3D"22" cellspacing=3D"0" cellpaddi=
+ng=3D"0" border=3D"0">
+<tr>
+<td class=3D"large-pad-height" height=3D"22"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td></tr>
+</table>
+</td>
+</tr>
+</table>
+<table class=3D"suppress-on-mobile" height=3D"22" cellspacing=3D"0" cellpad=
+ding=3D"0" border=3D"0">
+<tr>
+<td class=3D"suppress-on-mobile" height=3D"22"></td>
+</tr>
+</table>
+<div class=3D"suppress-on-mobile" style=3D"border-bottom:1px solid #E1E1E1"=
+></div>
+<table class=3D"suppress-on-mobile" height=3D"22" cellspacing=3D"0" cellpad=
+ding=3D"0" border=3D"0">
+<tr>
+<td class=3D"suppress-on-mobile" height=3D"22"></td>
+</tr>
+</table>
+<table class=3D"content-container-width" width=3D"516" align=3D"center" cel=
+lspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"content-container-width" width=3D"516">
+<div class=3D"section-title-font" style=3D"font-family:arial,Arial,sans-ser=
+if; font-size:18px; font-weight:bold; color:#333333; -webkit-text-size-adju=
+st:none;">
+This week on YouTube...
+</div>
+</td>
+</tr>
+</table>
+<table class=3D"large-pad-height" height=3D"16" cellspacing=3D"0" cellpaddi=
+ng=3D"0" border=3D"0">
+<tr>
+<td class=3D"large-pad-height" height=3D"16"></td>
+</tr>
+</table>
+<table class=3D"content-container-width" width=3D"516" align=3D"center" cel=
+lspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"banner-size" width=3D"516" height=3D"64" align=3D"center">
+<a href=3D"http://youtube.com/comedyweek?feature=3Dem-banner" style=3D"disp=
+lay:block;"><img class=3D"banner-size" border=3D"0" alt=3D"Comedy Week: 20-=
+25 May" src=3D"http://www.gstatic.com/youtube/img/email/comedyweek/UK_watch=
+now.png" height=3D"64" width=3D"516"></a>
+</td>
+</tr>
+</table>
+<table class=3D"large-pad-height" height=3D"16" cellspacing=3D"0" cellpaddi=
+ng=3D"0" border=3D"0">
+<tr>
+<td class=3D"large-pad-height" height=3D"16"></td>
+</tr>
+</table>
+<table class=3D"content-container-width" width=3D"516" align=3D"center" cel=
+lspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"content-container-width" width=3D"516" align=3D"left">
+<div class=3D"banner-font" style=3D"font-family:arial,Arial,sans-serif; fon=
+t-size:13px; line-height:20px; -webkit-text-size-adjust:none;">
+<a class=3D"banner-link-font" style=3D"color: #999999; text-decoration: non=
+e;" href=3D"http://youtube.com/comedyweek?feature=3Dem-banner">All this wee=
+k, watch as the best of comedy comes together. This better be funny.</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class=3D"content-container-pad-width" width=3D"40"></td>
+</tr>
+<tr>
+<td class=3D"large-pad-height" height=3D"22" colspan=3D"3"></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td class=3D"small-pad-height" height=3D"16"></td>
+</tr>
+<tr>
+<td class=3D"inner-container-width" width=3D"596" align=3D"center">
+<table class=3D"inner-container-width" width=3D"596" cellspacing=3D"0" cell=
+padding=3D"0" border=3D"0">
+<tr>
+<td class=3D"footer-pad-width" width=3D"20"></td>
+<td class=3D"footer-width" width=3D"556">
+<div style=3D"color: #999999; font-size:11px; line-height:14px; font-family=
+:arial, Arial, sans-serif; -webkit-text-size-adjust:none;">
+YouTube sends email summaries like these so you can keep up with your chann=
+el subscriptions.<BR>
+If you no longer want to receive these updates, you may edit your preferenc=
+es <a href=3D"http://www.youtube.com/account_notifications?feature=3Dem-sub=
+s_digest" style=3D"color:#1C62B9; text-decoration:none;">here</a> or <a hre=
+f=3D"http://www.youtube.com/email_unsubscribe?uid=3D0FuM0jlOaQXFmpgjIDBICw&=
+action_unsubscribe=3DnSvESYUh82X6XS6VWiKOiqycW6J8MTM2OTEwMTgwM0AxMzY5MTAxOD=
+Az&feature=3Dem-subs_digest" style=3D"color:#1C62B9; text-decoration:none;"=
+>unsubscribe</a>.
+</div>
+</td>
+<td class=3D"footer-pad-width" width=3D"20"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class=3D"small-pad-height" height=3D"16"></td>
+</tr>
+<tr>
+<td class=3D"inner-container-width" width=3D"596">
+<table class=3D"inner-container-width" width=3D"596" cellspacing=3D"0" cell=
+padding=3D"0" border=3D"0">
+<tr>
+<td class=3D"footer-pad-width" width=3D"20"></td>
+<td class=3D"footer-width" width=3D"556">
+<div style=3D"color:#999999; font-size:11px; line-height:14px; font-family:=
+arial, Arial, sans-serif; -webkit-text-size-adjust:none;">
+=A92013 YouTube, LLC 901 Cherry Ave, San Bruno, CA 94066
+</div>
+</td>
+<td class=3D"footer-pad-width" width=3D"20"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class=3D"large-pad-height" height=3D"22"></td>
+</tr>
+</table>
+</td><td class=3D"suppress-on-mobile" width=3D"22" bgcolor=3D"#F0F0F0"></td=
+></tr></table>
+</body>
+</html>
+
+--089e01184ac2a2c23d04dd30dad2--

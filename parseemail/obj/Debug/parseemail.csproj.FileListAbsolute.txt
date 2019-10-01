@@ -1,0 +1,9 @@
+D:\NET CORE\receiveemail\parseemail\bin\Debug\parseemail.exe.config
+D:\NET CORE\receiveemail\parseemail\bin\Debug\parseemail.exe
+D:\NET CORE\receiveemail\parseemail\bin\Debug\parseemail.pdb
+D:\NET CORE\receiveemail\parseemail\bin\Debug\EAGetMail.dll
+D:\NET CORE\receiveemail\parseemail\obj\Debug\parseemail.csprojAssemblyReference.cache
+D:\NET CORE\receiveemail\parseemail\obj\Debug\parseemail.csproj.CoreCompileInputs.cache
+D:\NET CORE\receiveemail\parseemail\obj\Debug\parseemail.csproj.CopyComplete
+D:\NET CORE\receiveemail\parseemail\obj\Debug\parseemail.exe
+D:\NET CORE\receiveemail\parseemail\obj\Debug\parseemail.pdb

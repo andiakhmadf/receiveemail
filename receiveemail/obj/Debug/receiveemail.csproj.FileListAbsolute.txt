@@ -1,0 +1,9 @@
+D:\NET CORE\receiveemail\receiveemail\obj\Debug\receiveemail.csprojAssemblyReference.cache
+D:\NET CORE\receiveemail\receiveemail\obj\Debug\receiveemail.csproj.CoreCompileInputs.cache
+D:\NET CORE\receiveemail\receiveemail\bin\Debug\receiveemail.exe.config
+D:\NET CORE\receiveemail\receiveemail\bin\Debug\receiveemail.exe
+D:\NET CORE\receiveemail\receiveemail\bin\Debug\receiveemail.pdb
+D:\NET CORE\receiveemail\receiveemail\bin\Debug\EAGetMail.dll
+D:\NET CORE\receiveemail\receiveemail\obj\Debug\receiveemail.csproj.CopyComplete
+D:\NET CORE\receiveemail\receiveemail\obj\Debug\receiveemail.exe
+D:\NET CORE\receiveemail\receiveemail\obj\Debug\receiveemail.pdb

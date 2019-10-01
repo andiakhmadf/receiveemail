@@ -1,0 +1,1356 @@
+Delivered-To: agile678@gmail.com
+Received: by 10.76.35.41 with SMTP id e9csp164048oaj;
+        Fri, 24 May 2013 21:45:09 -0700 (PDT)
+Return-Path: <31EGgUQcLCGsWXaNYUhhXdcdKN.LXVtPRUNpqrPVJRU.LXV@scoutcamp.bounces.google.com>
+Received-SPF: pass (google.com: domain of 31EGgUQcLCGsWXaNYUhhXdcdKN.LXVtPRUNpqrPVJRU.LXV@scoutcamp.bounces.google.com designates 10.43.62.4 as permitted sender) client-ip=10.43.62.4
+Authentication-Results: mr.google.com;
+       spf=pass (google.com: domain of 31EGgUQcLCGsWXaNYUhhXdcdKN.LXVtPRUNpqrPVJRU.LXV@scoutcamp.bounces.google.com designates 10.43.62.4 as permitted sender) smtp.mail=31EGgUQcLCGsWXaNYUhhXdcdKN.LXVtPRUNpqrPVJRU.LXV@scoutcamp.bounces.google.com;
+       dkim=pass header.i=@youtube.com
+X-Received: from mr.google.com ([10.43.62.4])
+        by 10.43.62.4 with SMTP id wy4mr21382554icb.25.1369457109699 (num_hops = 1);
+        Fri, 24 May 2013 21:45:09 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=youtube.com; s=20120806;
+        h=mime-version:precedence:x-google-id:list-unsubscribe:reply-to
+         :message-id:date:subject:from:to:content-type;
+        bh=bZjkOlmWolUGS7ulcZmpOl79pbNaAN2mVZ7AJVo/Vlk=;
+        b=MWcdbbeNPz2lvf7eUV8wVi6e7rH8w6g05CqY2CTn6LRT5aU7WkIamQBceMTLhp2dFi
+         yjNvcN7s5PJns9ail/cAO0uN8hU//JveRLeojW/rkrS7bpmgDby5STzTzrN86iy3jdos
+         O33WS8nwNsvI6Bg6+DZ5eABg/4Bm+nJAzg0v+HSccpZq5/J/7R8dRB/+Uw7s416rK1cm
+         9jbXwSmc5t0mJsQdCrtKBTS+tdIUF0KPhDimwE5Gkbg3I2tHF4WIkrz4WXMK6udSsddG
+         arjtl9DQEqabzoJ9knrSMZX63wr+Mpb+p9N2g8U20ntGTJ62kYKabrBWZduDC+Ni79F2
+         lftw==
+MIME-Version: 1.0
+X-Received: by 10.43.62.4 with SMTP id wy4mr15188557icb.25.1369457108943; Fri,
+ 24 May 2013 21:45:08 -0700 (PDT)
+Precedence: bulk
+X-Google-Id: 2471001
+List-Unsubscribe: <http://www.google.com/appserve/mkt/optout/13da414xthFdJL4j1ilp594Ch6AOq7gJ8?e%3DAgile678%2540gmail.com%26hl%3Den_US>
+Reply-To: noreply@youtube.com
+Message-ID: <5846f03b.1369457108.212522.162811.en-US.aa872ba2@google.com>
+Date: Sat, 25 May 2013 04:45:08 +0000
+Subject: Sarah Silverman, The Lonely Island and more: YouTube Comedy Week is HERE
+From: YouTube <noreply@youtube.com>
+To: Agile678@gmail.com
+Content-Type: multipart/alternative; boundary=bcaec51a83ba8386e704dd8394b1
+
+--bcaec51a83ba8386e704dd8394b1
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+WW91VHViZQ0KaHR0cDovL3d3dy5nb29nbGUuY29tL2FwcHNlcnZlL21rdC82MXpOUWxBWXRSYWVS
+cUFXckpwSTlhDQoNClZpZXcgdGhpcyBlbWFpbCBpbiBhIGJyb3dzZXI6ICANCmh0dHA6Ly93d3cu
+Z29vZ2xlLmNvbS9hcHBzZXJ2ZS9ta3QvMnBXWXNqMjVkbVhYa0hYNDdoc0xIVQ0KDQpGb2xsb3cg
+dXM6DQpHb29nbGUrOiBodHRwOi8vd3d3Lmdvb2dsZS5jb20vYXBwc2VydmUvbWt0LzRPWjk3TzZz
+RDhoMUIyZEFEVThYRVoNClR3aXR0ZXI6IGh0dHA6Ly93d3cuZ29vZ2xlLmNvbS9hcHBzZXJ2ZS9t
+a3QvMHpIS3NiRjRTNkJZUUs5Z0pLdlYzbA0KDQoNCiAgCSAJDQpZb3VUdWJlJ3MgZmlyc3QtZXZl
+ciBDb21lZHkgV2VlayBraWNrcyBvZmYhDQpDb21lZHkgV2VlayBpcyBoZXJlLiBWaWRlbyBkZWJ1
+dHMsIG5ldyBzZXJpZXMgYW5kIHRvbnMgb2YgbGF1Z2hzLiBDYXRjaC11cCAgDQpvbiB3aGF0IHlv
+dSd2ZSBtaXNzZWQgYW5kIHdoYXQncyB1cCBuZXh0IHdpdGggb3VyIHJlY2FwIG9uIFlvdVR1YmUg
+IA0KU3BvdGxpZ2h0LiAoIGh0dHA6Ly93d3cuZ29vZ2xlLmNvbS9hcHBzZXJ2ZS9ta3QvM2FldkNa
+eDc3SThsODRhQk1ZVHEydyApDQpodHRwOi8vd3d3Lmdvb2dsZS5jb20vYXBwc2VydmUvbWt0Lzcz
+SUNHZU5EeFlRWDdkdkhGTnZITW8NCg0KDQoNCiAgCQ0KR29vZnkgc2hvd3M6IFlvdSBjYW7tdCB3
+YXRjaCBqdXN0IG9uZQ0KRGlzY292ZXIgYWJzb2x1dGVseSBub3RoaW5nIGFib3V0IGhlYWx0aCB3
+aXRoIERyLiBHb29kLCBleHBsb3JlIHNjaS1maSAgDQpjb21lZHksIGFuZCB3YXRjaCBLZW5hbiBU
+aG9tcHNvbiBnZXQgdGhlIHRhcm90IHJlYWRpbmcgb2YgaGlzIGxpZmUuDQoNCllvdXIgSW5zaWRl
+cyBMb29rIExpa2UgU21hc2hlZCBUb21hdG9lcyAtIERyLiBHb29kIC0gRXAuIDENCmh0dHA6Ly93
+d3cuZ29vZ2xlLmNvbS9hcHBzZXJ2ZS9ta3QvMGN1QmFjN05Sa3lQZFc5amJDSXQyQQ0KDQpTdWJz
+Y3JpYmUgdG8gVGhlIE9uaW9uDQpodHRwOi8vd3d3Lmdvb2dsZS5jb20vYXBwc2VydmUvbWt0LzZY
+SnFKWXM2OTE3c05LSktqMzk0ZEsNCg0KDQpDb21lZHkgV2VlazogUmVkIHZzLiBCbHVlIFNlYXNv
+biAxMSBUZWFzZXIgZmVhdHVyaW5nIFNtb3NoDQpodHRwOi8vd3d3Lmdvb2dsZS5jb20vYXBwc2Vy
+dmUvbWt0LzRZU0h5T3ZGUWZPY0FnNGw1Z25NS2ENCg0KU3Vic2NyaWJlIHRvIFJvb3N0ZXIgVGVl
+dGgNCmh0dHA6Ly93d3cuZ29vZ2xlLmNvbS9hcHBzZXJ2ZS9ta3QvN2FzVGRJN0RWWGhlRGZDY3pa
+Y1huaQ0KDQoNClRoZSBGdXR1cmUgZnQuIEtlbmFuIFRob21wc29uDQpodHRwOi8vd3d3Lmdvb2ds
+ZS5jb20vYXBwc2VydmUvbWt0LzRQcUhLTEtQM0VmcnNOdEdKMThxam8NCg0KU3Vic2NyaWJlIHRv
+IEFib3ZlIEF2ZXJhZ2UNCmh0dHA6Ly93d3cuZ29vZ2xlLmNvbS9hcHBzZXJ2ZS9ta3QvMDFCbTIz
+SDJTclNhVExxbjVickZYcg0KDQoNCg0KICAJDQpGb3VyIFNpbXBsZSBTdGVwcyB0byBIaWxhcml0
+eQ0KSGF2ZSB5b3Ugc2VlbiB0aGUgc3BpdCB0YWtlIHZpZGVvcyB5ZXQ/IEFsbCB3ZSBjYW4gc2F5
+IGlzLCB5b3UnbGwgbmV2ZXIgIA0KbG9vayBhdCBhIGdsYXNzIG9mIHdhdGVyIHRoZSBzYW1lIHdh
+eSBhZ2Fpbi4gQW4gaW50ZXJuZXQgdHJlbmQgaXMgYm9ybi4gIA0KI1NwaXRUYWtlLiAoIGh0dHA6
+Ly93d3cuZ29vZ2xlLmNvbS9hcHBzZXJ2ZS9ta3QvMUM0dTVPSTZmSlpCV0FtVVNNZjlmcyApDQpo
+dHRwOi8vd3d3Lmdvb2dsZS5jb20vYXBwc2VydmUvbWt0LzNseXBhQjdGRjdBMXZoY3M4RlFnbmkN
+Cg0KVGFrZSB0aGUgWW91VHViZSBjaGFsbGVuZ2UgI1NwaXRUYWtlICNDb21lZHlXZWVrDQpUd2Vl
+dCAjU3BpdFRha2U6IGh0dHA6Ly93d3cuZ29vZ2xlLmNvbS9hcHBzZXJ2ZS9ta3QvM29pekNtRzJM
+Y2xXbkJzek94N2ltMg0KDQoNCg0KICAJDQpGcmVzaCB2aWRlb3MgZGVidXQgZm9yIFlvdVR1YmUg
+Q29tZWR5IFdlZWsNCkJyYW5kLW5ldyBudWdnZXRzOiBSZWdnaWUgV2F0dHMsIFRoZSBHcmVnb3J5
+IEJyb3RoZXJzLCBhbmQgdGhvc2UgZHVkZXMgd2hvICANCnNpbmcgZnVubnkgcmFwIHNvbmdzLiBT
+Y29yZQ0KDQpSZWdnaWUgV2F0dHMgLS0gUmVnIFJvbGxlZCAtIFlvdVR1YmUgQ29tZWR5IFdlZWsN
+Cmh0dHA6Ly93d3cuZ29vZ2xlLmNvbS9hcHBzZXJ2ZS9ta3QvNzFRUnlxRUd1ZGRUeUhPVGNlcHhC
+dg0KDQpTdWJzY3JpYmUgdG8gUmVnZ2llIFdhdHRzDQpodHRwOi8vd3d3Lmdvb2dsZS5jb20vYXBw
+c2VydmUvbWt0LzZjN3F4MTYweVhWenBTZnFUUnBwVUsNCg0KDQpUaGUgTG9uZWx5IElzbGFuZCAt
+IFNFTUlDT0xPTg0KaHR0cDovL3d3dy5nb29nbGUuY29tL2FwcHNlcnZlL21rdC80UllGY2JQUDlV
+UFNHSjgwaUtOa2E5DQoNClN1YnNjcmliZSB0byBUaGUgTG9uZWx5IElzbGFuZA0KaHR0cDovL3d3
+dy5nb29nbGUuY29tL2FwcHNlcnZlL21rdC82OE5WOHd0Mk92aTc0UTgzSU0wVkxmDQoNCg0KVGhl
+IEhpc3Rvcnkgb2YgWW91VHViZSBieSBUaGUgR3JlZ29yeSBCcm90aGVycw0KaHR0cDovL3d3dy5n
+b29nbGUuY29tL2FwcHNlcnZlL21rdC8xSE9QbEdWMUk2MEw2YmFRaldneHM0DQoNClN1YnNjcmli
+ZSB0byBZb3VUdWJlDQpodHRwOi8vd3d3Lmdvb2dsZS5jb20vYXBwc2VydmUvbWt0LzJpMjBWTXFI
+eEFJRko2d3lmUHBrM2ENCg0KDQoNCg0KWW91VHViZSdzIGdyZWF0ZXN0IGhpdHMNClJlbGl2ZSBz
+b21lIHRoZSBmdW5uaWVzdCB2aWRlb3MgZXZlciBwb3N0ZWQgb24gWW91VHViZS4gV2UgYXNrIHlv
+dTogRG9lcyAgDQrsTnlhbiBDYXTuIGV2ZXIgZ2V0IG9sZD8gTm8uIE5vLCBpdCBkb2VzIG5vdC4N
+Cg0KQ2hhcmxpZSBiaXQgbXkgZmluZ2VyIC0gYWdhaW4gIQ0KaHR0cDovL3d3dy5nb29nbGUuY29t
+L2FwcHNlcnZlL21rdC82RUJwUnhOV2luWWVCMkZET0ZWUTl1DQoNCkRhdmlkIEFmdGVyIERlbnRp
+c3QNCmh0dHA6Ly93d3cuZ29vZ2xlLmNvbS9hcHBzZXJ2ZS9ta3QvMkJPbWl1ejhqOUlPRExDbk14
+aVRrbg0KDQpOeWFuIENhdCBbb3JpZ2luYWxdDQpodHRwOi8vd3d3Lmdvb2dsZS5jb20vYXBwc2Vy
+dmUvbWt0LzRkbXRsWkJuOUpZeW4zVW0ydzc5b1QNCg0KDQoNCgkNClRyZW5kaW5nIHZpZGVvcw0K
+VHJpY2sgc2hvdHMgdG9vIHNpY2sgdG8gYmVsaWV2ZSwgcmVhbGl0eSBzaG93cyB0aGF0IHNob3Vs
+ZCBuZXZlciBoYXBwZW4sICANCmFuZCB0aGUgbGF0ZXN0IHR3aXN0IG9uIHRoZSBhcG9jYWx5cHNl
+LiBUaGlzIGlzIHdoYXQgeW91J3JlIHdhdGNoaW5nLCBmb2xrcy4NCg0KVGhlIEJhYnkgQmFjaGVs
+b3IgLSBFcGlzb2RlIDENCmh0dHA6Ly93d3cuZ29vZ2xlLmNvbS9hcHBzZXJ2ZS9ta3QvMWVBVnBq
+dmVkYVUwUUxObHZqcjY2SA0KDQpab21iaWUgUGFya291ciAtIFRoZSBGbGlwcGluZyBEZWFkDQpo
+dHRwOi8vd3d3Lmdvb2dsZS5jb20vYXBwc2VydmUvbWt0LzEzVWZPSlQzYTNST1oxOUdBWjJQNEgN
+Cg0KQSBEYXkgd2l0aCBMYXNzaSBIdXJza2FpbmVuIHwgR29hbGtlZXBlciBUcmljayBTaG90cw0K
+aHR0cDovL3d3dy5nb29nbGUuY29tL2FwcHNlcnZlL21rdC81ejJhbkRsRVA3WFVrMzdCNUNhbTFn
+DQoNCg0KDQpXYW50IG1vcmUgdmlkZW9zPyBHbyB0byBZb3VUdWJlLiAgDQpodHRwOi8vd3d3Lmdv
+b2dsZS5jb20vYXBwc2VydmUvbWt0LzBtMDc5RWhFaklPYWR3UklUQm1LdDANCg0KDQoNCi0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0NCg0KDQoNCihjKSAyMDEzIFlvdVR1YmUs
+IExMQyA5MDEgQ2hlcnJ5IEF2ZSwgU2FuIEJydW5vLCBDQSA5NDA2Ni4NCg0KVGhpcyBlbWFpbCB3
+YXMgc2VudCB0byBBZ2lsZTY3OEBnbWFpbC5jb20gYmVjYXVzZSB5b3UgaW5kaWNhdGVkIHRoYXQg
+eW91ICANCmFyZSB3aWxsaW5nIHRvIHJlY2VpdmUgb2NjYXNpb25hbCBZb3VUdWJlIHByb2R1Y3Qt
+cmVsYXRlZCBlbWFpbHMuIElmIHlvdSBkbyAgDQpub3Qgd2lzaCB0byByZWNlaXZlIHN1Y2ggZW1h
+aWxzIGluIHRoZSBmdXR1cmUsIHBsZWFzZSB1bnN1YnNjcmliZSBoZXJlOiAgDQpodHRwOi8vd3d3
+Lmdvb2dsZS5jb20vYXBwc2VydmUvbWt0L29wdG91dC8xM2RhNDE0eHRoRmRKTDRqMWlscDU5NENo
+NkFPcTdnSjg/ZT1BZ2lsZTY3OCU0MGdtYWlsLmNvbSZobD1lbl9VUyAgDQpZb3UgY2FuIGFsc28g
+Y2hhbmdlIHlvdXIgcHJlZmVyZW5jZXMgYnkgdmlzaXRpbmcgeW91ciBFbWFpbCBPcHRpb25zIGlu
+IHlvdXIgIA0KWW91VHViZSBhY2NvdW50IGF0IHd3dy55b3V0dWJlLmNvbS9hY2NvdW50I25vdGlm
+aWNhdGlvbnMvZW1haWwNCg==
+--bcaec51a83ba8386e704dd8394b1
+Content-Type: text/html; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" =
+/>
+		<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />
+		<title>Comedy Week Goes Live</title>
+		<style type=3D"text/css">
+			@import url(http://fonts.googleapis.com/css?family=3DOpen+Sans:400,700);
+
+			/*--RESET--*/
+			#outlook a {padding:0;}
+			body{width:100% !important; -webkit-text-size-adjust:100%; -ms-text-size=
+-adjust:100%; margin:0; padding:0;}=20
+			.ExternalClass {width:100%;}=20
+			.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass fo=
+nt, .ExternalClass td, .ExternalClass div {line-height: 100%;}
+			#backgroundTable {margin:0; padding:0; width:100% !important; line-heigh=
+t: 100% !important; background: #F6F6F6; background-color: #F6F6F6}
+
+			/*--DEFAULTS--*/
+			img {outline:none; text-decoration:none; -ms-interpolation-mode: bicubic=
+;}=20
+			a img {border:none;}=20
+			.image_fix {display:block;}
+
+			p {
+				margin: 0;
+				line-height: 1.5;
+			}
+
+			h1, h2, h3, h4, h5, h6 {
+				color: #363636 !important;
+				font-family: 'Open Sans', Helvetica, Arial, sans-serif !important;
+				font-weight: bold;
+				margin: 0;
+				padding: 0;
+			}
+			h1{font-size: 20px}
+			h2{
+				font-size: 14px;
+				color: #787878 !important;
+				font-weight: 100;
+			}
+
+			h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {color: blue !important;}
+			h1 a:active, h2 a:active,  h3 a:active, h4 a:active, h5 a:active, h6 a:a=
+ctive {
+				color: red !important;
+			}
+			h1 a:visited, h2 a:visited,  h3 a:visited, h4 a:visited, h5 a:visited, h=
+6 a:visited {
+			=09
+			}
+			a, a:link, a:visited {
+				color: #0A98D6 !important;
+				text-decoration: none;
+			}
+			/*--MOBILE TARGETING--*/
+			@media only screen and (max-device-width: 480px) {
+				a[href^=3D"tel"], a[href^=3D"sms"] {
+					text-decoration: none;
+					color: blue; /* or whatever your want */
+					pointer-events: none;
+					cursor: default;
+				}
+				.mobile_link a[href^=3D"tel"], .mobile_link a[href^=3D"sms"] {
+					text-decoration: default;
+					color: orange !important;
+					pointer-events: auto;
+					cursor: default;
+				}
+			}
+			@media only screen and (min-device-width: 768px) and (max-device-width: =
+1024px) {
+				a[href^=3D"tel"], a[href^=3D"sms"] {
+					text-decoration: none;
+					color: blue; /* or whatever your want */
+					pointer-events: none;
+					cursor: default;
+				}
+				.mobile_link a[href^=3D"tel"], .mobile_link a[href^=3D"sms"] {
+					text-decoration: default;
+					color: orange !important;
+					pointer-events: auto;
+					cursor: default;
+				}
+			}
+			@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+			/* Put your iPhone 4g styles in here */=20
+			}
+
+			/* Android targeting */
+			@media only screen and (-webkit-device-pixel-ratio:.75){
+			/* Put CSS for low density (ldpi) Android layouts in here */
+			}
+			@media only screen and (-webkit-device-pixel-ratio:1){
+			/* Put CSS for medium density (mdpi) Android layouts in here */
+			}
+			@media only screen and (-webkit-device-pixel-ratio:1.5){
+			/* Put CSS for high density (hdpi) Android layouts in here */
+			}
+			/* end Android targeting */
+		</style>
+
+		<!-- Targeting Windows Mobile -->
+		<!--[if IEMobile 7]>
+		<style type=3D"text/css">
+	=09
+		</style>
+		<![endif]-->  =20
+
+		<!-- ***********************************************
+		****************************************************
+		END MOBILE TARGETING
+		****************************************************
+		************************************************ -->
+
+		<!--[if gte mso 9]>
+			<style>
+			/* Target Outlook 2007 and 2010 */
+			</style>
+		<![endif]-->
+	</head>
+	<body bgcolor=3D"#F6F6F6">
+
+		<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" id=
+=3D"backgroundTable">
+			<tr>
+				<td align=3D"center" bgcolor=3D"#F6F6F6">
+					<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+						<!-- HEADER -->
+                        <tr>
+                        	<td>
+                                <table cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" width=3D"600">
+                                	<tr>
+                                    	<td width=3D"600" height=3D"20" colspa=
+n=3D"4"></td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"left" valign=3D"top" w=
+idth=3D"352"><a href=3D'http://www.google.com/appserve/mkt/2pWYsj25dmXXkHX4=
+7hsLHU' style=3D"font-size:11px; color:#1155cc; text-decoration:none; font-=
+family:'Open Sans', Helvetica, Arial, sans-serif;">View email in a web brow=
+ser</a></td>
+                                        <td align=3D"left" valign=3D"top" w=
+idth=3D"196"><span style=3D"font-size:11px; color:#666666; font-family:'Ope=
+n Sans', Helvetica, Arial, sans-serif;">Follow YouTube for the best videos:=
+</span></td>
+                                        <td align=3D"right" valign=3D"top" =
+width=3D"22"><a href=3D'http://www.google.com/appserve/mkt/4OZ97O6sD8h1B2dA=
+DU8XEZ'><img src=3D"http://yt-assets.fbridgecdn.net/cwgl/images/gplus_icon.=
+png" width=3D"16" height=3D"16" border=3D"0" alt=3D"Google Plus" style=3D"d=
+isplay:block" /></a></td>
+                                        <td align=3D"right" valign=3D"top" =
+width=3D"30"><a href=3D'http://www.google.com/appserve/mkt/0zHKsbF4S6BYQK9g=
+JKvV3l'><img src=3D"http://yt-assets.fbridgecdn.net/cwgl/images/twitter_ico=
+n.png" width=3D"20" height=3D"16" border=3D"0" alt=3D"Twitter" style=3D"dis=
+play:block;" /></a></td>
+                                    </tr>
+                                    <tr>
+                                    	<td width=3D"600" height=3D"10" colspa=
+n=3D"4"></td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+						<tr>
+							<td width=3D"600" height=3D"88" align=3D"center" valign=3D"top">
+								<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"=
+0">
+									<tr>
+                                        <td align=3D"left" valign=3D"top" w=
+idth=3D"600" height=3D"78">
+                                            <a href=3D'http://www.google.co=
+m/appserve/mkt/61zNQlAYtRaeRqAWrJpI9a'><img src=3D"http://yt-assets.fbridge=
+cdn.net/cwgl/images/yt-header.png" width=3D"600" height=3D"78" border=3D"0"=
+ alt=3D"YouTube" /></a>
+                                        </td>
+                                    </tr>
+								</table>
+							</td>
+						</tr>
+						<!-- HEADER -->
+						<!-- HERO MODULE -->
+						<tr>
+							<td width=3D"600" height=3D"96" align=3D"center" valign=3D"top">
+								<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"60=
+0">
+									<tr>
+										<td width=3D"600" align=3D"left" valign=3D"top">
+											<a href=3D'http://www.google.com/appserve/mkt/73ICGeNDxYQX7dvHFN=
+vHMo'>
+												<img src=3D"http://yt-assets.fbridgecdn.net/cwgl/images/cwgl-he=
+ro-b.jpg" width=3D"600" height=3D"338" border=3D"0" alt=3D"YouTube=92s firs=
+t-ever Comedy Week kicks off!" style=3D"display:block;" />
+											</a>
+										</td>
+									</tr>
+									<tr>
+										<td width=3D"600" align=3D"left" valign=3D"top">
+											<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D=
+"600" style=3D"border:1px solid #E3E3E3; -webkit-box-shadow:0px 1px 1px #EE=
+EEEE; -moz-box-shadow:0px 1px 1px #EEEEEE; box-shadow:0px 1px 1px #EEEEEE;"=
+>
+												<tr>
+													<td colspan=3D"3" height=3D"15" width=3D"600" bgcolor=3D"#FFFF=
+FF">&nbsp;</td>
+												</tr>
+												<tr>
+													<td bgcolor=3D"#FFFFFF" width=3D"23" align=3D"left" valign=3D"=
+top">
+													</td>
+													<td bgcolor=3D"#FFFFFF" width=3D"555" align=3D"left" valign=3D=
+"top">
+														<h2 style=3D"font-family:'Open Sans', Helvetica, Arial, sans-=
+serif; font-size:18px; color:#363636!important; margin:0px!important; paddi=
+ng:0px; font-weight:bold; padding-bottom:8px;">YouTube=92s first-ever Comed=
+y Week kicks off!</h2><p style=3D"font-family:'Open Sans', Helvetica, Arial=
+, sans-serif; font-size:14px; color:#363636!important; margin:0px!important=
+; padding:0px!important; line-height:20px;">Comedy Week is here. Video debu=
+ts, new series and tons of laughs. Catch-up on what you=92ve missed and wha=
+t=92s up next with our recap on <a href=3D'http://www.google.com/appserve/m=
+kt/3aevCZx77I8l84aBMYTq2w' style=3D"color:#1155cc; text-decoration:none;">Y=
+ouTube Spotlight</a>.</p>
+													</td>
+													<td bgcolor=3D"#FFFFFF" width=3D"22" align=3D"left" valign=3D"=
+top">
+													</td>
+												</tr>
+												<tr>
+													<td colspan=3D"3" height=3D"15" width=3D"600" bgcolor=3D"#FFFF=
+FF">&nbsp;</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+						<!-- HERO MODULE -->                           =20
+						<!-- MODULE -->
+						<tr>
+							<td width=3D"600" height=3D"30" align=3D"center" valign=3D"top">&nbs=
+p;
+							=09
+							</td>
+						</tr>
+						<!-- MODULE -->
+                        <!-- MODULE TITLE -->
+						<tr>
+							<td width=3D"600" align=3D"center" valign=3D"middle" height=3D"108" =
+bgcolor=3D"#FFFFFF" style=3D"border:1px solid #E3E3E3; -webkit-box-shadow:0=
+px 1px 1px #EEEEEE; -moz-box-shadow:0px 1px 1px #EEEEEE; box-shadow:0px 1px=
+ 1px #EEEEEE;">
+								<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"55=
+5">
+									<tr>
+										<td width=3D"32" align=3D"left" valign=3D"top"><img src=3D"http:/=
+/yt-assets.fbridgecdn.net/cwgl/images/section-play.png" width=3D"32" height=
+=3D"23" border=3D"0" alt=3D"play" style=3D"display:block;" /></td>
+										<td width=3D"17" align=3D"left" valign=3D"top">&nbsp;</td>
+										<td width=3D"506" align=3D"left" valign=3D"top">
+											<h2 style=3D"font-family:'Open Sans', Helvetica, Arial, sans-ser=
+if; font-size:18px; color:#363636!important; margin:0px!important; padding:=
+0px; font-weight:bold; padding-bottom:4px;">Goofy shows: You can=92t watch =
+just one</h2>
+											<p style=3D"font-family:'Open Sans', Helvetica, Arial, sans-seri=
+f; font-size:14px; color:#363636!important; margin:0px!important; padding:0=
+px!important; line-height:20px;">Discover absolutely <em>nothing</em> about=
+ health with Dr. Good, explore sci-fi comedy, and watch Kenan Thompson get =
+the tarot reading of his life.</p>
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+						<!-- MODULE TITLE -->
+                        <!-- MODULE -->
+						<tr>
+							<td width=3D"600" height=3D"7" align=3D"center" valign=3D"top">
+							</td>
+						</tr>
+						<!-- MODULE -->
+                        <!-- NEW THREE VIDEOS MODULE -->
+                        <tr>
+                        	<td width=3D"600" align=3D"left" valign=3D"top">
+                            	<table cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0" width=3D"600">
+                                	<tr>
+                                    	<td width=3D"190" align=3D"left" valig=
+n=3D"top" bgcolor=3D"#FFFFFF" style=3D"border:1px solid #e3e3e3; -webkit-bo=
+x-shadow:0px 1px 1px #EEEEEE; -moz-box-shadow:0px 1px 1px #EEEEEE; box-shad=
+ow:0px 1px 1px #EEEEEE;">
+                                        	<table width=3D"190" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0">
+                                            	<tr>
+                                                	<td width=3D"190" align=3D=
+"left" valign=3D"top">
+                                                    	<a href=3D'http://www.=
+google.com/appserve/mkt/0cuBac7NRkyPdW9jbCIt2A'><img src=3D"http://yt-asset=
+s.fbridgecdn.net/cwgl/images/cwgl-video-v.jpg" width=3D"190" height=3D"107"=
+ border=3D"0" alt=3D"Your Insides Look Like Smashed Tomatoes - Dr. Good - E=
+p. 1" style=3D"display:block;" /></a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                	<td width=3D"190" align=3D=
+"center" valign=3D"middle" height=3D"105">
+                                                    	<table cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0" width=3D"176">
+                                                        	<tr><td colspan=3D=
+"2" height=3D"7"></td></tr>
+                                                            <tr>
+                                                            	<td colspan=3D=
+"2" height=3D"15"><p style=3D"font-family:'Open Sans', Helvetica, Arial, sa=
+ns-serif; font-size: 12px; color: #2d2d2d; font-weight: bold">Your Insides =
+Look Like Smashed Tomatoes - Dr. Good - Ep. 1</p></td> =20
+                                                            </tr>
+															<tr><td colspan=3D"2" height=3D"15">&nbsp;</td></tr>
+															<tr>
+																<td width=3D"54" valign=3D"top"><a href=3D'http://www.googl=
+e.com/appserve/mkt/6iNJptVv4TFNGmPL3NfCuS'><img src=3D"http://yt-assets.fbr=
+idgecdn.net/cwgl/images/cwgl-channel-g.jpg" width=3D"44" height=3D"44" clas=
+s=3D"image_fix" style=3D"display: block" border=3D"0" alt=3D"The Onion" /><=
+/a></td>
+																<td width=3D"122" valign=3D"top" style=3D"font-family:'Open=
+ Sans', Helvetica, Arial, sans-serif; font-size: 12px; color: #2d2d2d; font=
+-weight: bold">
+																	The Onion<br />
+																	<a href=3D'http://www.google.com/appserve/mkt/6XJqJYs6917s=
+NKJKj394dK'><img src=3D"http://yt-assets.fbridgecdn.net/cwgl/images/cwgl-su=
+bscribe-g.png" width=3D"121" height=3D"19" border=3D"0" alt=3D"Subscribe" s=
+tyle=3D"padding-top:4px;" /></a>
+																</td>
+															</tr>
+															<tr><td colspan=3D"2" height=3D"15">&nbsp;</td></tr>
+														</table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                        <td width=3D"15" align=3D"left" val=
+ign=3D"top">&nbsp;</td>
+                                        <td width=3D"190" align=3D"left" va=
+lign=3D"top" bgcolor=3D"#FFFFFF" style=3D"border:1px solid #e3e3e3;-webkit-=
+box-shadow:0px 1px 1px #EEEEEE; -moz-box-shadow:0px 1px 1px #EEEEEE; box-sh=
+adow:0px 1px 1px #EEEEEE;">
+                                        	<table width=3D"190" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0">
+                                            	<tr>
+                                                	<td width=3D"190" align=3D=
+"left" valign=3D"top">
+                                                    	<a href=3D'http://www.=
+google.com/appserve/mkt/4YSHyOvFQfOcAg4l5gnMKa'><img src=3D"http://yt-asset=
+s.fbridgecdn.net/cwgl/images/cwgl-video-w.jpg" width=3D"190" height=3D"107"=
+ border=3D"0" alt=3D"Comedy Week: Red vs. Blue Season 11 Teaser featuring S=
+mosh" style=3D"display:block;" /></a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                	<td width=3D"190" align=3D=
+"center" valign=3D"middle" height=3D"105">
+                                                    	<table cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0" width=3D"176">
+                                                        	<tr><td colspan=3D=
+"2" height=3D"7"></td></tr>
+                                                            <tr>
+                                                            	<td colspan=3D=
+"2" height=3D"15"><p style=3D"font-family:'Open Sans', Helvetica, Arial, sa=
+ns-serif; font-size: 12px; color: #2d2d2d; font-weight: bold">Comedy Week: =
+Red vs. Blue Season 11 Teaser featuring Smosh</p></td> =20
+                                                            </tr>
+															<tr><td colspan=3D"2" height=3D"15">&nbsp;</td></tr>
+															<tr>
+																<td width=3D"54" valign=3D"top"><a href=3D'http://www.googl=
+e.com/appserve/mkt/112Iw92h0Nki1WdNMbYQhM'><img src=3D"http://yt-assets.fbr=
+idgecdn.net/cwgl/images/cwgl-channel-h.jpg" width=3D"44" height=3D"44" clas=
+s=3D"image_fix" style=3D"display: block" border=3D"0" alt=3D"Rooster Teeth"=
+ /></a></td>
+																<td width=3D"122" valign=3D"top" style=3D"font-family:'Open=
+ Sans', Helvetica, Arial, sans-serif; font-size: 12px; color: #2d2d2d; font=
+-weight: bold">
+																	Rooster Teeth<br />
+																	<a href=3D'http://www.google.com/appserve/mkt/7asTdI7DVXhe=
+DfCczZcXni'><img src=3D"http://yt-assets.fbridgecdn.net/cwgl/images/cwgl-su=
+bscribe-h.png" width=3D"121" height=3D"19" border=3D"0" alt=3D"Subscribe" s=
+tyle=3D"padding-top:4px;" /></a>
+																</td>
+															</tr>
+															<tr><td colspan=3D"2" height=3D"15">&nbsp;</td></tr>
+														</table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                        <td width=3D"15" align=3D"left" val=
+ign=3D"top">&nbsp;</td>
+                                        <td width=3D"190" align=3D"left" va=
+lign=3D"top" bgcolor=3D"#FFFFFF" style=3D"border:1px solid #e3e3e3; -webkit=
+-box-shadow:0px 1px 1px #EEEEEE; -moz-box-shadow:0px 1px 1px #EEEEEE; box-s=
+hadow:0px 1px 1px #EEEEEE;">
+                                        	<table width=3D"190" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0">
+                                            	<tr>
+                                                	<td width=3D"190" align=3D=
+"left" valign=3D"top">
+                                                    	<a href=3D'http://www.=
+google.com/appserve/mkt/4PqHKLKP3EfrsNtGJ18qjo'><img src=3D"http://yt-asset=
+s.fbridgecdn.net/cwgl/images/cwgl-video-x.jpg" width=3D"190" height=3D"107"=
+ border=3D"0" alt=3D"The Future ft. Kenan Thompson" style=3D"display:block;=
+" /></a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                	<td width=3D"190" align=3D=
+"center" valign=3D"middle" height=3D"105">
+                                                    	<table cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0" width=3D"176">
+                                                        	<tr><td colspan=3D=
+"2" height=3D"7"></td></tr>
+                                                            <tr>
+                                                            	<td colspan=3D=
+"2" height=3D"15"><p style=3D"font-family:'Open Sans', Helvetica, Arial, sa=
+ns-serif; font-size: 12px; color: #2d2d2d; font-weight: bold">The Future ft=
+. Kenan Thompson<br /><br /></p></td> =20
+                                                            </tr>
+															<tr><td colspan=3D"2" height=3D"15">&nbsp;</td></tr>
+															<tr>
+																<td width=3D"54" valign=3D"top"><a href=3D'http://www.googl=
+e.com/appserve/mkt/65aSWcd8Cbpho8CFVTnyHH'><img src=3D"http://yt-assets.fbr=
+idgecdn.net/cwgl/images/cwgl-channel-i.jpg" width=3D"44" height=3D"44" clas=
+s=3D"image_fix" style=3D"display: block" border=3D"0" alt=3D"Above Average"=
+ /></a></td>
+																<td width=3D"122" valign=3D"top" style=3D"font-family:'Open=
+ Sans', Helvetica, Arial, sans-serif; font-size: 12px; color: #2d2d2d; font=
+-weight: bold">
+																	Above Average<br />
+																	<a href=3D'http://www.google.com/appserve/mkt/01Bm23H2SrSa=
+TLqn5brFXr'><img src=3D"http://yt-assets.fbridgecdn.net/cwgl/images/cwgl-su=
+bscribe-i.png" width=3D"121" height=3D"19" border=3D"0" alt=3D"Subscribe" s=
+tyle=3D"padding-top:4px;" /></a>
+																</td>
+															</tr>
+															<tr><td colspan=3D"2" height=3D"15">&nbsp;</td></tr>
+														</table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>                       =20
+                        <!-- NEW THREE VIDEOS MODULE -->
+                        <!-- MODULE -->
+						<tr>
+							<td width=3D"600" height=3D"30" align=3D"center" valign=3D"top">&nbs=
+p;
+							=09
+							</td>
+						</tr>
+						<!-- MODULE -->
+                        <!-- MODULE TITLE -->
+						<tr>
+							<td width=3D"600" align=3D"center" valign=3D"middle" height=3D"108" =
+bgcolor=3D"#FFFFFF" style=3D"border:1px solid #E3E3E3; -webkit-box-shadow:0=
+px 1px 1px #EEEEEE; -moz-box-shadow:0px 1px 1px #EEEEEE; box-shadow:0px 1px=
+ 1px #EEEEEE;">
+								<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"55=
+5">
+									<tr>
+										<td width=3D"32" align=3D"left" valign=3D"top"><img src=3D"http:/=
+/yt-assets.fbridgecdn.net/cwgl/images/section-play.png" width=3D"32" height=
+=3D"23" border=3D"0" alt=3D"play" style=3D"display:block;" /></td>
+										<td width=3D"17" align=3D"left" valign=3D"top">&nbsp;</td>
+										<td width=3D"506" align=3D"left" valign=3D"top">
+											<h2 style=3D"font-family:'Open Sans', Helvetica, Arial, sans-ser=
+if; font-size:18px; color:#363636!important; margin:0px!important; padding:=
+0px; font-weight:bold; padding-bottom:4px;">Four Simple Steps to Hilarity</=
+h2>
+											<p style=3D"font-family:'Open Sans', Helvetica, Arial, sans-seri=
+f; font-size:14px; color:#363636!important; margin:0px!important; padding:0=
+px!important; line-height:20px;">Have you seen the spit take videos yet? Al=
+l we can say is, you=92ll never look at a glass of water the same way again=
+. An internet trend is born. <a style=3D"color:#1155cc; text-decoration:non=
+e;" href=3D'http://www.google.com/appserve/mkt/1C4u5OI6fJZBWAmUSMf9fs'>#Spi=
+tTake</a>.</p>
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+						<!-- MODULE TITLE -->
+						<!-- MODULE -->
+						<tr>
+							<td width=3D"600" height=3D"7" align=3D"center" valign=3D"top">
+							</td>
+						</tr>
+						<!-- MODULE -->
+                        <!-- HERO MODULE -->
+						<tr>
+							<td width=3D"600" height=3D"96" align=3D"center" valign=3D"top">
+								<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"60=
+0">
+									<tr>
+										<td width=3D"600" align=3D"left" valign=3D"top">
+											<a href=3D'http://www.google.com/appserve/mkt/3lypaB7FF7A1vhcs8F=
+Qgni'>
+												<img src=3D"http://yt-assets.fbridgecdn.net/cwgl/images/cwgl-vi=
+deo-g.jpg" width=3D"600" height=3D"338" border=3D"0" alt=3D"Four Simple Ste=
+ps to Hilarity" style=3D"display:block;" />
+											</a>
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+						<!-- HERO MODULE -->
+                        <!-- MODULE -->
+						<tr>
+							<td width=3D"600" height=3D"7" align=3D"center" valign=3D"top">	=09
+							</td>
+						</tr>
+						<!-- MODULE -->
+                        <!-- SOCIAL MODULE -->
+                        <tr>
+										<td width=3D"600" align=3D"left" valign=3D"top">
+											<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D=
+"600" style=3D"border:1px solid #E3E3E3; -webkit-box-shadow:0px 1px 1px #EE=
+EEEE; -moz-box-shadow:0px 1px 1px #EEEEEE; box-shadow:0px 1px 1px #EEEEEE;"=
+>
+												<tr>
+													<td colspan=3D"3" height=3D"15" width=3D"600" bgcolor=3D"#FFFF=
+FF">&nbsp;</td>
+												</tr>
+												<tr>
+													<td bgcolor=3D"#FFFFFF" width=3D"23" align=3D"left" valign=3D"=
+top">
+													</td>
+													<td bgcolor=3D"#FFFFFF" width=3D"555" align=3D"left" valign=3D=
+"top">
+														<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                                                        	<tr>
+                                                                <td width=
+=3D"429" align=3D"left" valign=3D"middle"><p style=3D"font-family:'Open San=
+s', Helvetica, Arial, sans-serif; font-size:14px; color:#363636!important; =
+margin:0px!important; padding:0px!important; line-height:24px;"><img src=3D=
+"http://yt-assets.fbridgecdn.net/cwgl/images/quotes_open.png" width=3D"21" =
+height=3D"17" border=3D"0" alt=3D"Quotes" />&nbsp;&nbsp;You=92ll never look=
+ at a glass of water the same way again. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;#SpitTake #ComedyWeek&nbsp;&nbsp;<img src=3D"http://yt-assets.fbrid=
+gecdn.net/cwgl/images/quotes_close.png" width=3D"22" height=3D"17" border=
+=3D"0" alt=3D"Quotes" /></p></td>
+                                                                <td width=
+=3D"126" align=3D"right" valign=3D"middle"><a href=3D'http://www.google.com=
+/appserve/mkt/3oizCmG2LclWnBszOx7im2'><img src=3D"http://yt-assets.fbridgec=
+dn.net/cwgl/images/tweet_button.png" width=3D"116" height=3D"20" border=3D"=
+0" alt=3D"Tweet" style=3D"display:block" /></a></td>
+                                                            </tr>
+                                                        </table>
+													</td>
+													<td bgcolor=3D"#FFFFFF" width=3D"22" align=3D"left" valign=3D"=
+top">
+													</td>
+												</tr>
+												<tr>
+													<td colspan=3D"3" height=3D"15" width=3D"600" bgcolor=3D"#FFFF=
+FF">&nbsp;</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+                        <!-- SOCIAL MODULE -->                      =20
+						<!-- MODULE -->
+						<tr>
+							<td width=3D"600" height=3D"30" align=3D"center" valign=3D"top">&nbs=
+p;
+							=09
+							</td>
+						</tr>
+						<!-- MODULE -->
+						<!-- MODULE TITLE -->
+						<tr>
+							<td width=3D"600" align=3D"center" valign=3D"middle" height=3D"108" =
+bgcolor=3D"#FFFFFF" style=3D"border:1px solid #E3E3E3; -webkit-box-shadow:0=
+px 1px 1px #EEEEEE; -moz-box-shadow:0px 1px 1px #EEEEEE; box-shadow:0px 1px=
+ 1px #EEEEEE;">
+								<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"55=
+5">
+									<tr>
+										<td width=3D"32" align=3D"left" valign=3D"top"><img src=3D"http:/=
+/yt-assets.fbridgecdn.net/cwgl/images/section-play.png" width=3D"32" height=
+=3D"23" border=3D"0" alt=3D"play" style=3D"display:block;" /></td>
+										<td width=3D"17" align=3D"left" valign=3D"top">&nbsp;</td>
+										<td width=3D"506" align=3D"left" valign=3D"top">
+											<h2 style=3D"font-family:'Open Sans', Helvetica, Arial, sans-ser=
+if; font-size:18px; color:#363636!important; margin:0px!important; padding:=
+0px; font-weight:bold; padding-bottom:4px;">Fresh videos debut for YouTube =
+Comedy Week</h2>
+											<p style=3D"font-family:'Open Sans', Helvetica, Arial, sans-seri=
+f; font-size:14px; color:#363636!important; margin:0px!important; padding:0=
+px!important; line-height:20px;">Brand-new nuggets: Reggie Watts, The Grego=
+ry Brothers, and those dudes who sing funny rap songs. Score!</p>
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+						<!-- MODULE TITLE -->
+						<!-- MODULE -->
+						<tr>
+							<td width=3D"600" height=3D"7" align=3D"center" valign=3D"top">
+							</td>
+						</tr>
+						<!-- MODULE -->
+                       =20
+                         <!-- NEW THREE VIDEOS MODULE -->
+                        <tr>
+                        	<td width=3D"600" align=3D"left" valign=3D"top">
+                            	<table cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0" width=3D"600">
+                                	<tr>
+                                    	<td width=3D"190" align=3D"left" valig=
+n=3D"top" bgcolor=3D"#FFFFFF" style=3D"border:1px solid #e3e3e3; -webkit-bo=
+x-shadow:0px 1px 1px #EEEEEE; -moz-box-shadow:0px 1px 1px #EEEEEE; box-shad=
+ow:0px 1px 1px #EEEEEE;">
+                                        	<table width=3D"190" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0">
+                                            	<tr>
+                                                	<td width=3D"190" align=3D=
+"left" valign=3D"top">
+                                                    	<a href=3D'http://www.=
+google.com/appserve/mkt/71QRyqEGuddTyHOTcepxBv'><img src=3D"http://yt-asset=
+s.fbridgecdn.net/cwgl/images/cwgl-video-s.jpg" width=3D"190" height=3D"107"=
+ border=3D"0" alt=3D"Reggie Watts -- Reg Rolled - YouTube Comedy Week" styl=
+e=3D"display:block;" /></a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                	<td width=3D"190" align=3D=
+"center" valign=3D"middle" height=3D"105">
+                                                    	<table cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0" width=3D"176">
+                                                        	<tr><td colspan=3D=
+"2" height=3D"7"></td></tr>
+                                                            <tr>
+                                                            	<td colspan=3D=
+"2" height=3D"15"><p style=3D"font-family:'Open Sans', Helvetica, Arial, sa=
+ns-serif; font-size: 12px; color: #2d2d2d; font-weight: bold">Reggie Watts =
+-- Reg Rolled - YouTube Comedy Week</p></td> =20
+                                                            </tr>
+															<tr><td colspan=3D"2" height=3D"15">&nbsp;</td></tr>
+															<tr>
+																<td width=3D"54" valign=3D"top"><a href=3D'http://www.googl=
+e.com/appserve/mkt/1IW6H0iHGYN67PXtaeQGQ3'><img src=3D"http://yt-assets.fbr=
+idgecdn.net/cwgl/images/cwgl-channel-f.jpg" width=3D"44" height=3D"44" clas=
+s=3D"image_fix" style=3D"display: block" border=3D"0" alt=3D"Reggie Watts" =
+/></a></td>
+																<td width=3D"122" valign=3D"top" style=3D"font-family:'Open=
+ Sans', Helvetica, Arial, sans-serif; font-size: 12px; color: #2d2d2d; font=
+-weight: bold">
+																	Reggie Watts<br />
+																	<a href=3D'http://www.google.com/appserve/mkt/6c7qx160yXVz=
+pSfqTRppUK'><img src=3D"http://yt-assets.fbridgecdn.net/cwgl/images/cwgl-su=
+bscribe-f.png" width=3D"116" height=3D"19" border=3D"0" alt=3D"Subscribe" s=
+tyle=3D"padding-top:4px;" /></a>
+																</td>
+															</tr>
+															<tr><td colspan=3D"2" height=3D"15">&nbsp;</td></tr>
+														</table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                        <td width=3D"15" align=3D"left" val=
+ign=3D"top">&nbsp;</td>
+                                        <td width=3D"190" align=3D"left" va=
+lign=3D"top" bgcolor=3D"#FFFFFF" style=3D"border:1px solid #e3e3e3;-webkit-=
+box-shadow:0px 1px 1px #EEEEEE; -moz-box-shadow:0px 1px 1px #EEEEEE; box-sh=
+adow:0px 1px 1px #EEEEEE;">
+                                        	<table width=3D"190" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0">
+                                            	<tr>
+                                                	<td width=3D"190" align=3D=
+"left" valign=3D"top">
+                                                    	<a href=3D'http://www.=
+google.com/appserve/mkt/4RYFcbPP9UPSGJ80iKNka9'><img src=3D"http://yt-asset=
+s.fbridgecdn.net/cwgl/images/cwgl-video-ab.jpg" width=3D"190" height=3D"107=
+" border=3D"0" alt=3D"The Lonely Island - SEMICOLON" style=3D"display:block=
+;" /></a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                	<td width=3D"190" align=3D=
+"center" valign=3D"middle" height=3D"105">
+                                                    	<table cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0" width=3D"176">
+                                                        	<tr><td colspan=3D=
+"2" height=3D"7"></td></tr>
+                                                            <tr>
+                                                            	<td colspan=3D=
+"2" height=3D"15"><p style=3D"font-family:'Open Sans', Helvetica, Arial, sa=
+ns-serif; font-size: 12px; color: #2d2d2d; font-weight: bold">The Lonely Is=
+land - SEMICOLON</p></td> =20
+                                                            </tr>
+															<tr><td colspan=3D"2" height=3D"15">&nbsp;</td></tr>
+															<tr>
+																<td width=3D"54" valign=3D"top"><a href=3D'http://www.googl=
+e.com/appserve/mkt/21GKvWzgxqHEBnArlnHrGo'><img src=3D"http://yt-assets.fbr=
+idgecdn.net/cwgl/images/cwgl-channel-r.jpg" width=3D"44" height=3D"44" clas=
+s=3D"image_fix" style=3D"display: block" border=3D"0" alt=3D"The Lonely Isl=
+and" /></a></td>
+																<td width=3D"122" valign=3D"top" style=3D"font-family:'Open=
+ Sans', Helvetica, Arial, sans-serif; font-size: 12px; color: #2d2d2d; font=
+-weight: bold">
+																	The Lonely Island<br />
+																	<a href=3D'http://www.google.com/appserve/mkt/68NV8wt2Ovi7=
+4Q83IM0VLf'><img src=3D"http://yt-assets.fbridgecdn.net/cwgl/images/cwgl-su=
+bscribe-r.png" width=3D"121" height=3D"19" border=3D"0" alt=3D"Subscribe" s=
+tyle=3D"padding-top:4px;" /></a>
+																</td>
+															</tr>
+															<tr><td colspan=3D"2" height=3D"15">&nbsp;</td></tr>
+														</table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                        <td width=3D"15" align=3D"left" val=
+ign=3D"top">&nbsp;</td>
+                                        <td width=3D"190" align=3D"left" va=
+lign=3D"top" bgcolor=3D"#FFFFFF" style=3D"border:1px solid #e3e3e3; -webkit=
+-box-shadow:0px 1px 1px #EEEEEE; -moz-box-shadow:0px 1px 1px #EEEEEE; box-s=
+hadow:0px 1px 1px #EEEEEE;">
+                                        	<table width=3D"190" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0">
+                                            	<tr>
+                                                	<td width=3D"190" align=3D=
+"left" valign=3D"top">
+                                                    	<a href=3D'http://www.=
+google.com/appserve/mkt/1HOPlGV1I60L6baQjWgxs4'><img src=3D"http://yt-asset=
+s.fbridgecdn.net/cwgl/images/cwgl-video-t.jpg" width=3D"190" height=3D"107"=
+ border=3D"0" alt=3D"The History of YouTube by The Gregory Brothers" style=
+=3D"display:block;" /></a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                	<td width=3D"190" align=3D=
+"center" valign=3D"middle" height=3D"105">
+                                                    	<table cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0" width=3D"176">
+                                                        	<tr><td colspan=3D=
+"2" height=3D"7"></td></tr>
+                                                            <tr>
+                                                            	<td colspan=3D=
+"2" height=3D"15"><p style=3D"font-family:'Open Sans', Helvetica, Arial, sa=
+ns-serif; font-size: 12px; color: #2d2d2d; font-weight: bold">The History o=
+f YouTube by The Gregory Brothers</p></td> =20
+                                                            </tr>
+															<tr><td colspan=3D"2" height=3D"15">&nbsp;</td></tr>
+															<tr>
+																<td width=3D"54" valign=3D"top"><a href=3D'http://www.googl=
+e.com/appserve/mkt/09DzoHy9Wc0aXQDZttMyRD'><img src=3D"http://yt-assets.fbr=
+idgecdn.net/cwgl/images/cwgl-channel-q.jpg" width=3D"44" height=3D"44" clas=
+s=3D"image_fix" style=3D"display: block" border=3D"0" alt=3D"The Lonely Isl=
+and" /></a></td>
+																<td width=3D"122" valign=3D"top" style=3D"font-family:'Open=
+ Sans', Helvetica, Arial, sans-serif; font-size: 12px; color: #2d2d2d; font=
+-weight: bold">
+																	YouTube<br />
+																	<a href=3D'http://www.google.com/appserve/mkt/2i20VMqHxAIF=
+J6wyfPpk3a'><img src=3D"http://yt-assets.fbridgecdn.net/cwgl/images/cwgl-su=
+bscribe-q.png" width=3D"121" height=3D"19" border=3D"0" alt=3D"Subscribe" s=
+tyle=3D"padding-top:4px;" /></a>
+																</td>
+															</tr>
+															<tr><td colspan=3D"2" height=3D"15">&nbsp;</td></tr>
+														</table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>                       =20
+                        <!-- NEW THREE VIDEOS MODULE -->
+						<!-- MODULE -->
+						<tr>
+							<td width=3D"600" height=3D"30" align=3D"center" valign=3D"top">&nbs=
+p;
+							=09
+							</td>
+						</tr>
+						<!-- MODULE -->
+                        <!-- MODULE TITLE -->
+						<tr>
+							<td width=3D"600" align=3D"center" valign=3D"middle" height=3D"108" =
+bgcolor=3D"#FFFFFF" style=3D"border:1px solid #E3E3E3; -webkit-box-shadow:0=
+px 1px 1px #EEEEEE; -moz-box-shadow:0px 1px 1px #EEEEEE; box-shadow:0px 1px=
+ 1px #EEEEEE;">
+								<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"55=
+5">
+									<tr>
+										<td width=3D"32" align=3D"left" valign=3D"top"><img src=3D"http:/=
+/yt-assets.fbridgecdn.net/cwgl/images/section-play.png" width=3D"32" height=
+=3D"23" border=3D"0" alt=3D"play" style=3D"display:block;" /></td>
+										<td width=3D"17" align=3D"left" valign=3D"top">&nbsp;</td>
+										<td width=3D"506" align=3D"left" valign=3D"top">
+											<h2 style=3D"font-family:'Open Sans', Helvetica, Arial, sans-ser=
+if; font-size:18px; color:#363636!important; margin:0px!important; padding:=
+0px; font-weight:bold; padding-bottom:4px;">YouTube=92s greatest hits</h2>
+											<p style=3D"font-family:'Open Sans', Helvetica, Arial, sans-seri=
+f; font-size:14px; color:#363636!important; margin:0px!important; padding:0=
+px!important; line-height:20px;">Relive some the funniest videos ever poste=
+d on YouTube. We ask you: Does =93Nyan Cat=94 ever get old? No. No, it does=
+ not.</p>
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+						<!-- MODULE TITLE -->
+						<!-- MODULE -->
+						<tr>
+							<td width=3D"600" height=3D"7" align=3D"center" valign=3D"top">
+							</td>
+						</tr>
+						<!-- MODULE -->
+                       =20
+                        <!-- NEW THREE VIDEOS MODULE -->
+                        <tr>
+                        	<td width=3D"600" align=3D"left" valign=3D"top">
+                            	<table cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0" width=3D"600">
+                                	<tr>
+                                    	<td width=3D"190" align=3D"left" valig=
+n=3D"top" bgcolor=3D"#FFFFFF" style=3D"border:1px solid #e3e3e3; -webkit-bo=
+x-shadow:0px 1px 1px #EEEEEE; -moz-box-shadow:0px 1px 1px #EEEEEE; box-shad=
+ow:0px 1px 1px #EEEEEE;">
+                                        	<table width=3D"190" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0">
+                                            	<tr>
+                                                	<td width=3D"190" align=3D=
+"left" valign=3D"top">
+                                                    	<a href=3D'http://www.=
+google.com/appserve/mkt/6EBpRxNWinYeB2FDOFVQ9u'><img src=3D"http://yt-asset=
+s.fbridgecdn.net/cwgl/images/cwgl-video-h.jpg" width=3D"190" height=3D"107"=
+ border=3D"0" alt=3D"Charlie bit my finger - again !" style=3D"display:bloc=
+k;" /></a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                	<td width=3D"190" align=3D=
+"center" valign=3D"middle" height=3D"105">
+                                                    	<table cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0" width=3D"160">
+                                                        	<tr>
+                                                            	<td width=3D"1=
+60" align=3D"left" valign=3D"top" height=3D"75">
+                                                                	<h2 style=
+=3D"font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:13px; =
+color:#363636!important; margin:0px!important; padding:0px; font-weight:bol=
+d;">Charlie bit my finger - again !</h2>
+                                                                    <br />
+                                                                    <p styl=
+e=3D"font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:12px;=
+ color:#646464!important; margin:0px!important; padding:0px;">525,975,727 v=
+iews</p>
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                        <td width=3D"15" align=3D"left" val=
+ign=3D"top">&nbsp;</td>
+                                        <td width=3D"190" align=3D"left" va=
+lign=3D"top" bgcolor=3D"#FFFFFF" style=3D"border:1px solid #e3e3e3;-webkit-=
+box-shadow:0px 1px 1px #EEEEEE; -moz-box-shadow:0px 1px 1px #EEEEEE; box-sh=
+adow:0px 1px 1px #EEEEEE;">
+                                        	<table width=3D"190" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0">
+                                            	<tr>
+                                                	<td width=3D"190" align=3D=
+"left" valign=3D"top">
+                                                    	<a href=3D'http://www.=
+google.com/appserve/mkt/2BOmiuz8j9IODLCnMxiTkn'><img src=3D"http://yt-asset=
+s.fbridgecdn.net/cwgl/images/cwgl-video-i.jpg" width=3D"190" height=3D"107"=
+ border=3D"0" alt=3D"David After Dentist" style=3D"display:block;" /></a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                	<td width=3D"190" align=3D=
+"center" valign=3D"middle" height=3D"105">
+                                                    	<table cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0" width=3D"160">
+                                                        	<tr>
+                                                            	<td width=3D"1=
+60" align=3D"left" valign=3D"top" height=3D"75">
+                                                                	<h2 style=
+=3D"font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:13px; =
+color:#363636!important; margin:0px!important; padding:0px; font-weight:bol=
+d;">David After Dentist</h2>
+                                                                    <br /><=
+br />
+                                                                    <p styl=
+e=3D"font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:12px;=
+ color:#646464!important; margin:0px!important; padding:0px;">119,340,803 v=
+iews</p>
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                        <td width=3D"15" align=3D"left" val=
+ign=3D"top">&nbsp;</td>
+                                        <td width=3D"190" align=3D"left" va=
+lign=3D"top" bgcolor=3D"#FFFFFF" style=3D"border:1px solid #e3e3e3; -webkit=
+-box-shadow:0px 1px 1px #EEEEEE; -moz-box-shadow:0px 1px 1px #EEEEEE; box-s=
+hadow:0px 1px 1px #EEEEEE;">
+                                        	<table width=3D"190" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0">
+                                            	<tr>
+                                                	<td width=3D"190" align=3D=
+"left" valign=3D"top">
+                                                    	<a href=3D'http://www.=
+google.com/appserve/mkt/4dmtlZBn9JYyn3Um2w79oT'><img src=3D"http://yt-asset=
+s.fbridgecdn.net/cwgl/images/cwgl-video-j.jpg" width=3D"190" height=3D"107"=
+ border=3D"0" alt=3D"Nyan Cat [original]" style=3D"display:block;" /></a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                	<td width=3D"190" align=3D=
+"center" valign=3D"middle" height=3D"105">
+                                                    	<table cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0" width=3D"160">
+                                                        	<tr>
+                                                            	<td width=3D"1=
+60" align=3D"left" valign=3D"top" height=3D"75">
+                                                                	<h2 style=
+=3D"font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:13px; =
+color:#363636!important; margin:0px!important; padding:0px; font-weight:bol=
+d;">Nyan Cat [original]</h2>
+                                                                    <br /><=
+br />
+                                                                    <p styl=
+e=3D"font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:12px;=
+ color:#646464!important; margin:0px!important; padding:0px;">97,317,038 vi=
+ews</p>
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>                       =20
+                        <!-- NEW THREE VIDEOS MODULE -->
+						<!-- MODULE -->
+						<tr>
+							<td width=3D"600" height=3D"30" align=3D"center" valign=3D"top">&nbs=
+p;
+							=09
+							</td>
+						</tr>
+						<!-- MODULE -->=20
+                        <!-- MODULE TITLE -->
+						<tr>
+							<td width=3D"600" align=3D"center" valign=3D"middle" height=3D"108" =
+bgcolor=3D"#FFFFFF" style=3D"border:1px solid #E3E3E3; -webkit-box-shadow:0=
+px 1px 1px #EEEEEE; -moz-box-shadow:0px 1px 1px #EEEEEE; box-shadow:0px 1px=
+ 1px #EEEEEE;">
+								<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"55=
+5">
+									<tr>
+										<td width=3D"32" align=3D"left" valign=3D"top"><img src=3D"http:/=
+/yt-assets.fbridgecdn.net/cwgl/images/section-play.png" width=3D"32" height=
+=3D"23" border=3D"0" alt=3D"play" style=3D"display:block;" /></td>
+										<td width=3D"17" align=3D"left" valign=3D"top">&nbsp;</td>
+										<td width=3D"506" align=3D"left" valign=3D"top">
+											<h2 style=3D"font-family:'Open Sans', Helvetica, Arial, sans-ser=
+if; font-size:18px; color:#363636!important; margin:0px!important; padding:=
+0px; font-weight:bold; padding-bottom:4px;">Trending videos</h2>
+											<p style=3D"font-family:'Open Sans', Helvetica, Arial, sans-seri=
+f; font-size:14px; color:#363636!important; margin:0px!important; padding:0=
+px!important; line-height:20px;">Trick shots too sick to believe, reality s=
+hows that should <em>never</em> happen, and the latest twist on the apocaly=
+pse. This is what you=92re watching, folks.</p>
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+						<!-- MODULE TITLE -->
+						<!-- MODULE -->
+						<tr>
+							<td width=3D"600" height=3D"7" align=3D"center" valign=3D"top">
+							</td>
+						</tr>
+						<!-- MODULE -->
+                       =20
+                        <!-- NEW THREE VIDEOS MODULE -->
+                        <tr>
+                        	<td width=3D"600" align=3D"left" valign=3D"top">
+                            	<table cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0" width=3D"600">
+                                	<tr>
+                                    	<td width=3D"190" align=3D"left" valig=
+n=3D"top" bgcolor=3D"#FFFFFF" style=3D"border:1px solid #e3e3e3; -webkit-bo=
+x-shadow:0px 1px 1px #EEEEEE; -moz-box-shadow:0px 1px 1px #EEEEEE; box-shad=
+ow:0px 1px 1px #EEEEEE;">
+                                        	<table width=3D"190" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0">
+                                            	<tr>
+                                                	<td width=3D"190" align=3D=
+"left" valign=3D"top">
+                                                    	<a href=3D'http://www.=
+google.com/appserve/mkt/1eAVpjvedaU0QLNlvjr66H'><img src=3D"http://yt-asset=
+s.fbridgecdn.net/cwgl/images/cwgl-video-k.jpg" width=3D"190" height=3D"107"=
+ border=3D"0" alt=3D"The Baby Bachelor - Episode 1" style=3D"display:block;=
+" /></a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                	<td width=3D"190" align=3D=
+"center" valign=3D"middle" height=3D"105">
+                                                    	<table cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0" width=3D"160">
+                                                        	<tr>
+                                                            	<td width=3D"1=
+60" align=3D"left" valign=3D"top" height=3D"75">
+                                                                	<h2 style=
+=3D"font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:13px; =
+color:#363636!important; margin:0px!important; padding:0px; font-weight:bol=
+d;">The Baby Bachelor - Episode 1</h2>
+                                                                    <br /><=
+br />
+                                                                    <p styl=
+e=3D"font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:12px;=
+ color:#646464!important; margin:0px!important; padding:0px;">2,368,188 vie=
+ws</p>
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                        <td width=3D"15" align=3D"left" val=
+ign=3D"top">&nbsp;</td>
+                                        <td width=3D"190" align=3D"left" va=
+lign=3D"top" bgcolor=3D"#FFFFFF" style=3D"border:1px solid #e3e3e3;-webkit-=
+box-shadow:0px 1px 1px #EEEEEE; -moz-box-shadow:0px 1px 1px #EEEEEE; box-sh=
+adow:0px 1px 1px #EEEEEE;">
+                                        	<table width=3D"190" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0">
+                                            	<tr>
+                                                	<td width=3D"190" align=3D=
+"left" valign=3D"top">
+                                                    	<a href=3D'http://www.=
+google.com/appserve/mkt/13UfOJT3a3ROZ19GAZ2P4H'><img src=3D"http://yt-asset=
+s.fbridgecdn.net/cwgl/images/cwgl-video-l.jpg" width=3D"190" height=3D"107"=
+ border=3D"0" alt=3D"Zombie Parkour - The Flipping Dead" style=3D"display:b=
+lock;" /></a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                	<td width=3D"190" align=3D=
+"center" valign=3D"middle" height=3D"105">
+                                                    	<table cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0" width=3D"160">
+                                                        	<tr>
+                                                            	<td width=3D"1=
+60" align=3D"left" valign=3D"top" height=3D"75">
+                                                                	<h2 style=
+=3D"font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:13px; =
+color:#363636!important; margin:0px!important; padding:0px; font-weight:bol=
+d;">Zombie Parkour - The Flipping Dead</h2>
+                                                                    <br /><=
+br />
+                                                                    <p styl=
+e=3D"font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:12px;=
+ color:#646464!important; margin:0px!important; padding:0px;">686,299 views=
+</p>
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                        <td width=3D"15" align=3D"left" val=
+ign=3D"top">&nbsp;</td>
+                                        <td width=3D"190" align=3D"left" va=
+lign=3D"top" bgcolor=3D"#FFFFFF" style=3D"border:1px solid #e3e3e3; -webkit=
+-box-shadow:0px 1px 1px #EEEEEE; -moz-box-shadow:0px 1px 1px #EEEEEE; box-s=
+hadow:0px 1px 1px #EEEEEE;">
+                                        	<table width=3D"190" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0">
+                                            	<tr>
+                                                	<td width=3D"190" align=3D=
+"left" valign=3D"top">
+                                                    	<a href=3D'http://www.=
+google.com/appserve/mkt/5z2anDlEP7XUk37B5Cam1g'><img src=3D"http://yt-asset=
+s.fbridgecdn.net/cwgl/images/cwgl-video-m.jpg" width=3D"190" height=3D"107"=
+ border=3D"0" alt=3D"A Day with Lassi Hurskainen | Goalkeeper Trick Shots, =
+Ep. 4 " style=3D"display:block;" /></a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                	<td width=3D"190" align=3D=
+"center" valign=3D"middle" height=3D"105">
+                                                    	<table cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0" width=3D"160">
+                                                        	<tr>
+                                                            	<td width=3D"1=
+60" align=3D"left" valign=3D"top" height=3D"75">
+                                                                	<h2 style=
+=3D"font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:13px; =
+color:#363636!important; margin:0px!important; padding:0px; font-weight:bol=
+d;">A Day with Lassi Hurskainen | Goalkeeper Trick Shots</h2>
+                                                                    <br />
+                                                                    <p styl=
+e=3D"font-family:'Open Sans', Helvetica, Arial, sans-serif; font-size:12px;=
+ color:#646464!important; margin:0px!important; padding:0px;">416,972 views=
+</p>
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>                       =20
+                        <!-- NEW THREE VIDEOS MODULE -->
+						<!-- MODULE -->
+						<tr>
+							<td width=3D"600" height=3D"30" align=3D"center" valign=3D"top">
+							</td>
+						</tr>
+						<!-- MODULE -->                 =20
+					=09
+						<tr>
+							<td width=3D"600" height=3D"60" align=3D"center" valign=3D"top">
+								<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"60=
+0">
+									<tr>
+										<td width=3D"210" height=3D"50" align=3D"center" bgcolor=3D"#ffff=
+ff" style=3D"border:1px solid #E3E3E3; border-right: none; -webkit-box-shad=
+ow:0px 1px 1px #EEEEEE; -moz-box-shadow:0px 1px 1px #EEEEEE; box-shadow:0px=
+ 1px 1px #EEEEEE;">
+											<h1 style=3D"font-family:'Open Sans', Helvetica, Arial, sans-ser=
+if; font-size: 13px; color: #333333;">Want more videos?</h1>
+										</td>
+										<td width=3D"390" bgcolor=3D"#ffffff" style=3D"border:1px solid #=
+E3E3E3; border-left: none; -webkit-box-shadow:0px 1px 1px #EEEEEE; -moz-box=
+-shadow:0px 1px 1px #EEEEEE; box-shadow:0px 1px 1px #EEEEEE;">
+											<a href=3D'http://www.google.com/appserve/mkt/0m079EhEjIOadwRITB=
+mKt0'><img src=3D"http://yt-assets.fbridgecdn.net/cwgl/images/go_to_youtube=
+_button.png" width=3D"367" height=3D"29" border=3D"0" alt=3D"Go To YouTube"=
+ /></a>
+										</td>
+									</tr>
+									<tr><td colspan=3D"3" height=3D"15">&nbsp;</td></tr>
+								</table>
+							</td>
+						</tr>
+					=09
+
+						<!-- FOOTER -->
+						<tr>
+							<td width=3D"600" height=3D"96" align=3D"center" valign=3D"top">
+								<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"60=
+0">
+									<tr>
+										<td width=3D"600" height=3D"70" style=3D"border-bottom:1px solid =
+#D8D8D8;">
+											<p style=3D"font-family:'Open Sans', Helvetica, Arial, sans-seri=
+f; font-size:13px; color:#333333;">
+												<strong>Happy Watching,</strong><br />The YouTube Team
+											</p>
+										</td>
+									</tr>
+									<tr>
+										<td width=3D"600" height=3D"70" style=3D"border-top:1px solid #FF=
+FFFF;">
+											<p style=3D"font-family:'Open Sans', Helvetica, Arial, sans-seri=
+f; font-size:13px; color:#999999;">
+												<br />=A9 2013 YouTube, LLC 901 Cherry Ave, San Bruno, CA 94066=
+.<br /><br />This email was sent to Agile678@gmail.com because you indicate=
+d that you are willing to receive occasional YouTube product-related emails=
+. If you do not wish to receive such emails in the future, please unsubscri=
+be here: <a href=3D'http://www.google.com/appserve/mkt/optout/13da414xthFdJ=
+L4j1ilp594Ch6AOq7gJ8?e=3DAgile678%40gmail.com&amp;hl=3Den_US'>http://www.go=
+ogle.com/appserve/mkt/optout/13da414xthFdJL4j1ilp594Ch6AOq7gJ8?e=3DAgile678=
+%40gmail.com&amp;hl=3Den_US</a> You can also change your preferences by vis=
+iting your <a href=3D"http://www.youtube.com/account#notifications/email">E=
+mail Options</a> in your YouTube account at <a href=3D"http://www.youtube.c=
+om/account#notifications/email">www.youtube.com/account#notifications/email=
+</a>
+											</p>
+										</td>
+									</tr>
+									<tr>
+										<td width=3D"600" height=3D"15">&nbsp;
+										=09
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+						<!-- FOOTER -->
+					</table>
+				</td>
+			</tr>
+		</table>
+	<img height=3D"1" width=3D"3" src=3D"http://www.google.com/appserve/mkt/im=
+g/0l5H1HjtRObq9oy68fIbFE.gif">
+	</body>
+</html>
+--bcaec51a83ba8386e704dd8394b1--

@@ -1,0 +1,352 @@
+Delivered-To: agile678@gmail.com
+Received: by 10.76.35.41 with SMTP id e9csp28733oaj;
+        Sat, 25 May 2013 16:57:54 -0700 (PDT)
+X-Received: by 10.66.88.38 with SMTP id bd6mr24647431pab.184.1369526273803;
+        Sat, 25 May 2013 16:57:53 -0700 (PDT)
+Return-Path: <z8574dcf4dNtvyr678=tznvy.pbz@postmaster.twitter.com>
+Received: from ham-cannon.twitter.com (ham-cannon.twitter.com. [199.59.148.231])
+        by mx.google.com with ESMTPS id yw4si16625162pbb.8.2013.05.25.16.57.53
+        for <Agile678@gmail.com>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Sat, 25 May 2013 16:57:53 -0700 (PDT)
+Received-SPF: pass (google.com: domain of z8574dcf4dNtvyr678=tznvy.pbz@postmaster.twitter.com designates 199.59.148.231 as permitted sender) client-ip=199.59.148.231;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of z8574dcf4dNtvyr678=tznvy.pbz@postmaster.twitter.com designates 199.59.148.231 as permitted sender) smtp.mail=z8574dcf4dNtvyr678=tznvy.pbz@postmaster.twitter.com;
+       dkim=pass header.i=@twitter.com;
+       dmarc=pass (p=REJECT dis=none) d=postmaster.twitter.com
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=simple/simple; d=twitter.com; s=dkim-201205;
+	h=Message-ID:Date:Content-Type:MIME-Version:Subject:To:From; bh=MLNwyrfNwYLx2aUsnT24ketJDPWIZOpv0s63BZgtSys=;
+	b=oM0TB3iejIOZfNH1SHd2om6K8kM95KVLqsJKao2xHXdcvLZ2Li2fzea0maX2RvZUUL4/GjiESpa90ZnPz2YqYx6KpP+OMVHnT9bBrsvZnGYARro19lbHaHP2vbq1+14+MEsHooFUKOVWdttPB38y00g+q5eEyf2Rbr1mPK2K8do=;
+From: Twitter <n-Ntvyr678=tznvy.pbz-12e19@postmaster.twitter.com>
+To: AndiAkhmadF <Agile678@gmail.com>
+Subject: Confirm your Twitter account, AndiAkhmadF!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_10570852_933708432.1369526262169"
+X-return-path-rewrite: true
+X-twfbl: am-167106996113695262618323228
+Date: Sat, 25 May 2013 23:57:42 +0000
+Message-ID: <2036441497.10570853.1369526262172.JavaMail.ibis@1UgOLG-0002Oz-a2.mta.twitter.com>
+
+------=_Part_10570852_933708432.1369526262169
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+AndiAkhmadF,
+Please confirm your Twitter account
+
+------------------------
+Confirming your account will give you full access to Twitter and all future notifications will be sent to this email address.
+
+Confirm your account now:
+https://twitter.com/account/confirm_email/AndiAkhmadF/7GC99-AG4EH-136952
+
+------------------------
+
+Forgot your Twitter password? Get instructions on how to reset it:
+https://twitter.com/account/resend_password
+
+Need help?
+https://support.twitter.com
+
+If you received this message in error and did not sign up for a Twitter account, click on the url below:
+https://twitter.com/account/not_my_account/AndiAkhmadF/7GC99-AG4EH-136952
+------=_Part_10570852_933708432.1369526262169
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<style type="text/css">
+@media only screen and (max-device-width: 480px) {
+table[class=outer] .global-width-670-to-320 {
+width: 320px !important;
+}
+table[class=outer] .global-width-520-to-320 {
+width: 320px !important;
+}
+table[class=outer] .global-width-500-to-300 {
+width: 300px !important;
+}
+table[class=outer] .global-separator-padding {
+height: 8px !important;
+}
+table[class=outer] .global-shrinking-to-0 {
+height: 0 !important;
+}
+table[class=outer] .global-shrinking-to-10 {
+height: 10px !important;
+}
+table[class=outer] .global-h1 {
+font-size: 14px !important;
+}
+
+table[class=outer] .cut {
+width: 0 !important;
+padding: 0 !important;
+}
+table[class=outer] .vcut {
+height: 0 !important;
+padding: 0 !important;
+}
+table[class=outer] img.cut {
+display: none !important;
+width: 0 !important;
+height: 0 !important;
+}
+table[class=outer] .cut span, table[class=outer] .cut a {
+display: none !important;
+}
+table[class=outer] .frame {
+width: 320px !important;
+border-left: 0 !important;
+border-right: 0 !important;
+}
+table[class=outer] .main_header.media_header {
+width: 300px !important;
+height: 55px !important;
+}
+table[class=outer] .header_left {
+height: 55px !important;
+}
+table[class=outer] .logo_header {
+height: 62px !important;
+}
+table[class=outer] .main_name {
+font-size: 12px !important;
+}
+table[class=outer] .subtitle {
+font-size: 12px !important;
+}
+table[class=outer] .media_main {
+width: 300px !important;
+}
+table[class=outer] .media_main .intro {
+width: 260px !important;
+font-size: 14px !important;
+}
+table[class=outer] .media_main .intro2 {
+font-size: 14px !important;
+}
+table[class=outer] .media_main .suggestions {
+font-size: 14px !important;
+}
+table[class=outer] .media_more {
+width: 300px !important;
+border-radius: 0 !important;
+background: #fff !important;
+border-top: 1px solid #e8e8e8 !important;
+}
+table[class=outer] .media_button {
+width: 300px !important;
+background-color: #209ae4 !important;
+padding-top: 3px !important;
+padding-bottom: 3px !important;
+}
+table[class=outer] .media_footer {
+font-size: 11px !important;
+line-height: 14px !important;
+padding: 0 10px !important;
+}
+table[class=outer] .address {
+font-size: 11px !important;
+line-height: 14px !important;
+display: block !important;
+}
+table[class=outer] td[class=footer-padding-top] {
+height: 12px !important;
+}
+table[class=outer] td[class=footer-padding-bottom] {
+height: 17px !important;
+}
+table[class=outer] .media_footer br {
+display: none !important;
+}
+table[class=outer] .spacer.ios {
+display: none !important;
+}
+table[class=outer] .reset {
+display: block !important;
+padding-bottom: 4px !important;
+}
+table[class=outer] .media_logo_div {
+display: block !important;
+position: absolute !important;
+left: 274px !important;
+top: 0 !important;
+background-image: url('https://ea.twimg.com/email/t1/ribbon.png') !important;
+background-size: 100% 100% !important;
+width: 36px !important;
+height: 68px !important;
+z-index: 1 !important;
+}
+table[class=employee-only-padding-top-bottom] {
+width: 300px !important;
+}
+table[class=employee-only] {
+width: 300px !important;
+padding: 10px 0;
+}
+td[class=header_padding] {
+height: 55px !important;
+}
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+table[class=outer] .media_button {
+padding-top: 3px !important;
+padding-bottom: 3px !important;
+background-color: #209ae4 !important;
+}
+table[class=outer] .media_button td.cut {
+width: 0 !important;
+padding: 0 !important;
+}
+table[class=outer] .media_button {
+padding-left: 10px !important;
+padding-right: 10px !important;
+}
+}
+</style>
+</head>
+<body style="margin: 0; padding: 0; background: #fff;-webkit-text-size-adjust:100%;">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" class="outer" style="position:relative;background:#ddd;">
+<tbody>
+<tr>
+<td>
+<table class="inner frame" align="center" cellpadding="0" cellspacing="0" border="0" width="670" style="background:#fff;position:relative;border:0;border-left:1px solid #ccc;border-right:1px solid #ccc;">
+<tbody>
+<tr>
+<td> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%3Frefsrc%3Demail%26ac%3D1%26sig%3D958cf1b1a00ae3fb1a1dde205610115d7e18c777&amp;sig=5a47db66b01023bc672ee4a197454ce03bea8787&amp;uid=1458340819&amp;iid=am-167106996113695262618323228&amp;nid=18+21&amp;t=1" style="border:none;color:#0084b4;text-decoration:none;"><span class="media_logo_div"></span></a>
+<table cellpadding="0" cellspacing="0" border="0" width="670" class="header frame" style="background:#f2f2f2;table-layout:fixed;">
+<tbody>
+<tr>
+<td class="header_left cut" style="width:19px;height:77px;"> &nbsp; </td>
+<td height="94" width="46" valign="top" rowspan="2" class="logo_header cut" style="background:#fff;line-height:100%;"><a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%3Frefsrc%3Demail%26ac%3D1%26sig%3D958cf1b1a00ae3fb1a1dde205610115d7e18c777&amp;sig=5a47db66b01023bc672ee4a197454ce03bea8787&amp;uid=1458340819&amp;iid=am-167106996113695262618323228&amp;nid=18+21&amp;t=1" style="border:none;color:#0084b4;text-decoration:none;"><img class="logo cut" src="https://ea.twimg.com/email/t1/ribbon.png" width="46" height="94" style="border:0;line-height:100%;border:0;" /></a></td>
+<td class="cut" width="9"> &nbsp; </td>
+<td width="10" height="77" class="header_padding"> &nbsp; </td>
+<td width="458" height="77" class="main_header media_header" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#333;">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="main_name" style="font-size:14px;font-weight:bold;color:#000;"> <span dir="ltr">AndiAkhmadF,</span> </td>
+</tr>
+<tr>
+<td class="subtitle" style="font-size:14px;color:#666;"> Please confirm your Twitter account </td>
+</tr>
+</tbody>
+</table> </td>
+<td width="10" height="77" class="header_padding"> &nbsp; </td>
+<td class="main_avatar cut" width="32" style="text-align:right;"> </td>
+<td class="col cut" style="width:85px;"></td>
+</tr>
+<tr>
+<td class="main header_drop cut" style="background:#fff;border-top:1px solid #ddd;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;">&nbsp;</td>
+<td class="main header_drop cut" style="background:#fff;border-top:1px solid #ddd;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;">&nbsp;</td>
+<td class="main header_drop media_header" height="17" style="background:#fff;border-top:1px solid #ddd;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;"><img width="1" height="1" style="display: block;border:0;" src="https://twitter.com/scribe/ibis?t=1&amp;sig=e0f473e73db585afdc7261a0c2a933c44ac6b1db&amp;iid=am-167106996113695262618323228&amp;ac=1&amp;uid=1458340819&amp;nid=18+20" /></td>
+<td class="main header_drop cut" height="17" colspan="4" style="background:#fff;border-top:1px solid #ddd;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;">&nbsp;</td>
+</tr>
+</tbody>
+</table> </td>
+<td rowspan="3"></td>
+</tr>
+<tr>
+<td class="content" style="background:#fff;">  <style type="text/css">
+@media only screen and (max-device-width: 480px) {
+table[class=outer] .shadow span {
+display:block;
+overflow: hidden;
+white-space: nowrap;
+text-overflow: ellipsis;
+width: 278px;
+}
+table[class=outer] .shadow {
+padding: 0 !important;
+}
+}
+</style>
+<table width="670" border="0" cellpadding="0" cellspacing="0" class="main frame" style="background:#fff;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;">
+<tbody>
+<tr>
+<td class="col cut" style="width:85px;"></td>
+<td class="media_main">
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody>
+<tr>
+<td class="mid text" style="padding:10px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#333;padding-bottom:0;font-size:15px;line-height:20px;"> Confirming your account will give you <strong>full access to Twitter</strong> and all future notifications will be sent to this email address. </td>
+</tr>
+<tr>
+<td height="10"></td>
+</tr>
+<tr>
+<td class="mid" style="padding:10px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#333;">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" background="https://ea.twimg.com/email/t1/button_bg.png" class="button media_button" style="white-space:nowrap;background-color:#33a9e5;border-radius:5px;border:1px solid #2288cc;padding:5px 0 5px 0;text-align:center;height:28px;">
+<tbody>
+<tr>
+<td class="shadow" align="center" style="color:#ffffff;font-size:13px;font-weight:bold;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;text-shadow:0px -1px 0px #3399dd;white-space:nowrap;padding-left:30px;padding-right:30px;"><span><a class="button_link" href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Faccount%2Fconfirm_email%2FAndiAkhmadF%2F7GC99-AG4EH-136952%3Fac%3D1%26sig%3D47e486c04b096747e5eeb1df3970a30c0a2c0788&amp;sig=e68ba66bf09840aa49b97c82193d4da64d2661fc&amp;uid=1458340819&amp;iid=am-167106996113695262618323228&amp;nid=18+308&amp;t=1" style="border:none;color:#0084b4;text-decoration:none;color:#ffffff;font-size:13px;font-weight:bold;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;">Confirm your account now</a></span></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td class="mid text" style="padding:10px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#333;padding-bottom:0;font-size:15px;line-height:20px;"> Or click the link below:<br /> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Faccount%2Fconfirm_email%2FAndiAkhmadF%2F7GC99-AG4EH-136952%3Fac%3D1%26sig%3D47e486c04b096747e5eeb1df3970a30c0a2c0788&amp;sig=e68ba66bf09840aa49b97c82193d4da64d2661fc&amp;uid=1458340819&amp;iid=am-167106996113695262618323228&amp;nid=18+309&amp;t=1" style="border:none;color:#0084b4;text-decoration:none;">https://twitter.com/account/confirm_email/AndiAkhmadF/7GC99-AG4EH-136952</a> </td>
+</tr>
+<tr>
+<td height="25"></td>
+</tr>
+</tbody>
+</table> </td>
+<td class="col cut" style="width:85px;"></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td>
+<table bgcolor="#eeeeee" border="0" cellpadding="0" cellspacing="0" width="670" class="frame footer" style="background-color:#eee;background-image:url('https://ea.twimg.com/email/t1/shadow-bottom.jpg');background-position:top;background-repeat:repeat-x;border-top-color:#ddd;border-top-style:solid;border-top-width:1px;">
+<tbody>
+<tr>
+<td colspan="4" height="16" class="footer-padding-top"></td>
+</tr>
+<tr>
+<td class="col cut" style="width:85px;"></td>
+<td class="footer_body media_footer" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;line-height:17px;color:#777;text-shadow:0 1px 0 #fff;">
+<div>
+Forgot your Twitter password?
+<a class="reset" href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Faccount%2Fresend_password%3Fac%3D1%26sig%3D47e486c04b096747e5eeb1df3970a30c0a2c0788&amp;sig=df040643c859d8ecfb66e1dcf07a469b1d8fa7b5&amp;uid=1458340819&amp;iid=am-167106996113695262618323228&amp;nid=18+24&amp;t=1" style="border:none;color:#0084b4;text-decoration:none;">Get instructions on how to reset it.</a>
+</div>
+<div class="reset">
+If you received this message in error and did not sign up for Twitter, click
+<a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Faccount%2Fnot_my_account%2FAndiAkhmadF%2F7GC99-AG4EH-136952%3Fac%3D1%26sig%3D47e486c04b096747e5eeb1df3970a30c0a2c0788&amp;sig=616c3fe644a017b667fecd64732207962ad92fed&amp;uid=1458340819&amp;iid=am-167106996113695262618323228&amp;nid=18+25&amp;t=1" style="border:none;color:#0084b4;text-decoration:none;">not my account</a>.
+</div>
+<div>
+<a href="#" class="address" style="border:none;color:#0084b4;text-decoration:none;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;text-decoration:none;font-size:11px;line-height:17px;color:#999999;text-shadow:0 1px 0 #fff;">Twitter, Inc. 1355 Market St., Suite 900 <span class="nobreak" style="white-space:nowrap;">San Francisco, CA 94103 </span></a>
+</div> </td>
+<td class="col cut" style="width:85px;"></td>
+</tr>
+<tr>
+<td colspan="3" class="footer-padding-bottom" height="25"></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
+
+------=_Part_10570852_933708432.1369526262169--
