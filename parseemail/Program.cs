@@ -38,7 +38,7 @@ namespace parseemail
             Console.WriteLine("TextBody: {0}", oMail.TextBody);
 
             // Parse Mail Html Body
-            //Console.WriteLine("HtmlBody: {0}", oMail.HtmlBody);
+            Console.WriteLine("HtmlBody: {0}", oMail.HtmlBody);
 
             // Parse Attachments
             Attachment[] atts = oMail.Attachments;
@@ -52,7 +52,7 @@ namespace parseemail
         {
             try
             {
-                ParseEmail("D:\\test.eml");
+                ParseEmail("D:\\test2.eml");
             }
             catch (Exception ep)
             {

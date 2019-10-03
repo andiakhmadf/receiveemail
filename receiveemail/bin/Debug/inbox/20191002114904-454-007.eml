@@ -1,0 +1,560 @@
+Delivered-To: agile678@gmail.com
+Received: by 10.76.73.226 with SMTP id o2csp54950oav;
+        Thu, 30 May 2013 15:05:39 -0700 (PDT)
+X-Received: by 10.68.224.104 with SMTP id rb8mr9891583pbc.206.1369951538797;
+        Thu, 30 May 2013 15:05:38 -0700 (PDT)
+Return-Path: <z1bea4b855Ntvyr678=tznvy.pbz@bounce.twitter.com>
+Received: from spruce-goose-ai.twitter.com (spruce-goose-ai.twitter.com. [199.59.150.78])
+        by mx.google.com with ESMTP id wn4si30132503pbc.265.2013.05.30.15.05.38
+        for <Agile678@gmail.com>;
+        Thu, 30 May 2013 15:05:38 -0700 (PDT)
+Received-SPF: pass (google.com: domain of z1bea4b855Ntvyr678=tznvy.pbz@bounce.twitter.com designates 199.59.150.78 as permitted sender) client-ip=199.59.150.78;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of z1bea4b855Ntvyr678=tznvy.pbz@bounce.twitter.com designates 199.59.150.78 as permitted sender) smtp.mail=z1bea4b855Ntvyr678=tznvy.pbz@bounce.twitter.com;
+       dkim=pass header.i=@twitter.com;
+       dmarc=pass (p=REJECT dis=none) d=postmaster.twitter.com
+Message-Id: <51a7cd32.24f2440a.5484.78bbSMTPIN_ADDED_MISSING@mx.google.com>
+DKIM-Signature: v=1; a=rsa-sha1; d=twitter.com; s=dkim-201303; c=relaxed/relaxed;
+	q=dns/txt; i=@twitter.com; t=1369951538;
+	h=From:Subject:Date:To;
+	bh=jbfCU9a7nWWFLjX2H7GNocps0EA=;
+	b=FQZoUbXQHeNwy88qmTJb//95zkqjxu9W4wRiEXkfP1JZTJVK2JVthyAIUKWTm8Eh
+	KozPrlXrOIkap21QzrOm4PJ/dy0hj9jh1y7u9NqWxD58Ct/Z2U33og/sliFiLm1R
+	+ZYnUo/KP368qX1Y5ICUQaHzNvbCQEKoU4s+JUViYAM=;
+X-MSFBL: QWdpbGU2NzhAZ21haWwuY29tQHNtZjEtYmZuLTI0LXNyMS1jb2xkLTE3OEBDb2xk
+	QA==
+Date: Thu, 30 May 2013 22:05:38 +0000
+From: Twitter <n-Ntvyr678=tznvy.pbz-12e19@postmaster.twitter.com>
+To: Agile678@gmail.com
+Subject: AndiAkhmadF, find your friends on Twitter!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_7019222_512717192.1369951535667"
+Precedence: Bulk
+
+------=_Part_7019222_512717192.1369951535667
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Find your friends on Twitter
+Import your email contacts today and get closer to the people you care the most about.
+
+Find your friends
+https://twitter.com/who_to_follow/import
+
+------------------------
+
+Forgot your Twitter password? Get instructions on how to reset it:
+https://twitter.com/account/resend_password
+
+You can also unsubscribe from these emails or change your notification settings: https://twitter.com/i/u?t=1&sig=f91f7e1c83e457c33e92a4b0fe8442a3993cba20&iid=cc267362-970a-4e2f-b505-0219b9f82e7c&uid=1458340819&nid=78+26+20130529
+https://twitter.com/settings/notifications
+
+Need help?
+https://support.twitter.com
+
+If you received this message in error and did not sign up for a Twitter account, click on the url below:
+https://twitter.com/account/not_my_account/AndiAkhmadF/2EHAH-EC534-136995
+------=_Part_7019222_512717192.1369951535667
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<style type="text/css">
+@media only screen and (max-device-width: 480px) {
+table[class=outer] .global-width-670-to-320 {
+width: 320px !important;
+}
+table[class=outer] .global-width-520-to-320 {
+width: 320px !important;
+}
+table[class=outer] .global-width-500-to-300 {
+width: 300px !important;
+}
+table[class=outer] .global-separator-padding {
+height: 8px !important;
+}
+table[class=outer] .global-shrinking-to-0 {
+height: 0 !important;
+}
+table[class=outer] .global-shrinking-to-10 {
+height: 10px !important;
+}
+table[class=outer] .global-h1 {
+font-size: 14px !important;
+}
+
+table[class=outer] .cut {
+width: 0 !important;
+padding: 0 !important;
+}
+table[class=outer] .vcut {
+height: 0 !important;
+padding: 0 !important;
+}
+table[class=outer] img.cut {
+display: none !important;
+width: 0 !important;
+height: 0 !important;
+}
+table[class=outer] .cut span, table[class=outer] .cut a {
+display: none !important;
+}
+table[class=outer] .frame {
+width: 320px !important;
+border-left: 0 !important;
+border-right: 0 !important;
+}
+table[class=outer] .main_header.media_header {
+width: 300px !important;
+height: 55px !important;
+}
+table[class=outer] .header_left {
+height: 55px !important;
+}
+table[class=outer] .logo_header {
+height: 62px !important;
+}
+table[class=outer] .main_name {
+font-size: 12px !important;
+}
+table[class=outer] .subtitle {
+font-size: 12px !important;
+}
+table[class=outer] .media_main {
+width: 300px !important;
+}
+table[class=outer] .media_main .intro {
+width: 260px !important;
+font-size: 14px !important;
+}
+table[class=outer] .media_main .intro2 {
+font-size: 14px !important;
+}
+table[class=outer] .media_main .suggestions {
+font-size: 14px !important;
+}
+table[class=outer] .media_more {
+width: 300px !important;
+border-radius: 0 !important;
+background: #fff !important;
+border-top: 1px solid #e8e8e8 !important;
+}
+table[class=outer] .media_button {
+width: 300px !important;
+background-color: #209ae4 !important;
+padding-top: 3px !important;
+padding-bottom: 3px !important;
+}
+table[class=outer] .media_footer {
+font-size: 11px !important;
+line-height: 14px !important;
+padding: 0 10px !important;
+}
+table[class=outer] .address {
+font-size: 11px !important;
+line-height: 14px !important;
+display: block !important;
+}
+table[class=outer] td[class=footer-padding-top] {
+height: 12px !important;
+}
+table[class=outer] td[class=footer-padding-bottom] {
+height: 17px !important;
+}
+table[class=outer] .media_footer br {
+display: none !important;
+}
+table[class=outer] .spacer.ios {
+display: none !important;
+}
+table[class=outer] .reset {
+display: block !important;
+padding-bottom: 4px !important;
+}
+table[class=outer] .media_logo_div {
+display: block !important;
+position: absolute !important;
+left: 274px !important;
+top: 0 !important;
+background-image: url('https://ea.twimg.com/email/t1/ribbon.png') !important;
+background-size: 100% 100% !important;
+width: 36px !important;
+height: 68px !important;
+z-index: 1 !important;
+}
+table[class=employee-only-padding-top-bottom] {
+width: 300px !important;
+}
+table[class=employee-only] {
+width: 300px !important;
+padding: 10px 0;
+}
+td[class=header_padding] {
+height: 55px !important;
+}
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+table[class=outer] .media_button {
+padding-top: 3px !important;
+padding-bottom: 3px !important;
+background-color: #209ae4 !important;
+}
+table[class=outer] .media_button td.cut {
+width: 0 !important;
+padding: 0 !important;
+}
+table[class=outer] .media_button {
+padding-left: 10px !important;
+padding-right: 10px !important;
+}
+}
+</style>
+</head>
+<body style="margin: 0; padding: 0; background: #fff;-webkit-text-size-adjust:100%;" bgcolor="#dddddd">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" class="outer" style="position:relative;background:#ddd;">
+<tbody>
+<tr>
+<td>
+<table class="inner frame" align="center" cellpadding="0" cellspacing="0" border="0" width="670" style="background:#fff;position:relative;border:0;border-left:1px solid #ccc;border-right:1px solid #ccc;">
+<tbody>
+<tr>
+<td> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%3Frefsrc%3Demail&amp;sig=76add118f9dfd33f63864ce34d9372e483cfba4a&amp;uid=1458340819&amp;iid=cc267362-970a-4e2f-b505-0219b9f82e7c&amp;nid=78+21+20130529&amp;t=1" style="border:none;color:#0084b4;text-decoration:none;"><span class="media_logo_div"></span></a>
+<table cellpadding="0" cellspacing="0" border="0" width="670" class="header frame" style="background:#f2f2f2;table-layout:fixed;">
+<tbody>
+<tr>
+<td class="header_left cut" style="width:19px;height:77px;"> &nbsp; </td>
+<td height="94" width="46" valign="top" rowspan="2" class="logo_header cut" style="background:#fff;line-height:100%;"><a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%3Frefsrc%3Demail&amp;sig=76add118f9dfd33f63864ce34d9372e483cfba4a&amp;uid=1458340819&amp;iid=cc267362-970a-4e2f-b505-0219b9f82e7c&amp;nid=78+21+20130529&amp;t=1" style="border:none;color:#0084b4;text-decoration:none;"><img class="logo cut" src="https://ea.twimg.com/email/t1/ribbon.png" width="46" height="94" style="border:0;line-height:100%;border:0;" /></a></td>
+<td class="cut" width="9"> &nbsp; </td>
+<td width="10" height="77" class="header_padding"> &nbsp; </td>
+<td width="458" height="77" class="main_header media_header" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#333;">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="main_name" style="font-size:14px;font-weight:bold;color:#000;"> <span dir="ltr">AndiAkhmadF,</span> </td>
+</tr>
+<tr>
+<td class="subtitle" style="font-size:14px;color:#666;"> Import your email contacts! </td>
+</tr>
+</tbody>
+</table> </td>
+<td width="10" height="77" class="header_padding"> &nbsp; </td>
+<td class="main_avatar cut" width="32" style="text-align:right;"> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2FAndiAkhmadF%3Frefsrc%3Demail&amp;sig=77e1273df79729e4d27ae004984cac4783d7546b&amp;uid=1458340819&amp;iid=cc267362-970a-4e2f-b505-0219b9f82e7c&amp;nid=78+22+20130529&amp;t=1" style="border:none;color:#0084b4;text-decoration:none;"><img class="cut" src="https://si0.twimg.com/profile_images/3710663342/cf641293877bea9c6c4c294d844daa7d_reasonably_small.jpeg" width="32" height="32" alt="AndiAkhmadF" style="background:#fff;border-radius:5px;border:0;" /></a> </td>
+<td class="col cut" style="width:85px;"></td>
+</tr>
+<tr>
+<td class="main header_drop cut" style="background:#fff;border-top:1px solid #ddd;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;">&nbsp;</td>
+<td class="main header_drop cut" style="background:#fff;border-top:1px solid #ddd;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;">&nbsp;</td>
+<td class="main header_drop media_header" height="17" style="background:#fff;border-top:1px solid #ddd;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;"><img width="1" height="1" style="display: block;border:0;" src="https://twitter.com/scribe/ibis?uid=1458340819&amp;iid=cc267362-970a-4e2f-b505-0219b9f82e7c&amp;nid=78+20+20130529&amp;t=1" /></td>
+<td class="main header_drop cut" height="17" colspan="4" style="background:#fff;border-top:1px solid #ddd;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;">&nbsp;</td>
+</tr>
+</tbody>
+</table> </td>
+<td rowspan="3"></td>
+</tr>
+<tr>
+<td class="content" style="background:#fff;"> <style type="text/css">
+@media only screen and (max-device-width: 480px){
+
+table[class=outer] .cut {
+width: 0 !important;
+padding: 0 !important;
+}
+
+table[class=outer] .x-mid {
+padding: 0 !important;
+}
+
+table[class=outer] .hide {
+display: none!important;
+}
+
+table[class=outer] img.cut {
+display: none !important;
+width: 0 !important;
+height: 0 !important;
+}
+
+table[class=outer] .precut p {
+display: block !important;
+}
+
+table[class=outer] .precut span {
+display: block !important;
+}
+
+table[class=outer] .sign-message br, table[class=outer] .suggestions_tip {
+line-height:17px !important;
+}
+
+table[class=outer] .frame {
+width: 320px !important;
+}
+
+table[class=outer] h1.title-main {
+font-size: 14px!important;
+margin: 0!important;
+padding: 0!important;
+}
+
+table[class=outer] .social-proof th {
+padding: 10px 0 20px!important;
+}
+
+table[class=outer] .social-proof td p{
+font-size: 12px !important;
+}
+
+table[class=outer] .social-proof td.user-avatars {
+padding-left: 0 !important;
+}
+table[class=outer] .social-proof .user-avatars td {
+padding-right: 5px !important;
+}
+
+table[class="outer"] .frame.main-content {
+background-color: #ccc !important;
+}
+
+table[class=outer] .styled-xx {
+position: relative;
+height: 90px !important;
+border-radius: 0 !important;
+border: none !important;
+background: white !important;
+}
+
+table[class=outer] .styled-xx .sign-message {
+width: 90%!important;
+position: absolute!important;
+top: 10px!important;
+left: 10px!important;
+}
+
+table[class=outer] .cellspacing {
+padding: 0 !important;
+}
+
+table[class=outer] .main-content-gap {
+display: none !important;
+}
+
+table[class=outer] .media_button {
+padding-top: 0 !important;
+padding-bottom: 0 !important;
+margin: 23px 10px 0 0!important;
+}
+
+table[class=outer] .styled-x-top {
+display:none !important;
+}
+
+table[class=outer] .main-content .cut,
+table[class=outer] .styled-x-bottom {
+display:none !important;
+}
+
+table[class=outer] .col-main {
+width: 100%!important;
+}
+
+table[class=outer] .section-holder {
+padding: 0 10px 10px;
+}
+
+table[class=outer] .frame-two {
+border: none !important;
+}
+
+table[class=outer] .section-container {
+border: none !important;
+border-bottom: none !important;
+background: #ffffff !important;
+}
+
+table[class=outer] .section-container td {
+padding-top: 0!important;
+}
+
+table[class=outer] .section-container-inner {
+border-bottom: solid 1px #ccc !important;
+}
+
+table[class=outer] .styled-m-two {
+border-bottom: solid 1px #ccc !important;
+background: #eeeeee !important;
+border-radius: 0 !important;
+}
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+table[class=outer] .media_button {
+padding-top: 0 !important;
+padding-bottom: 0 !important;
+}
+
+table[class=outer] .media_button td.cut {
+width: 0 !important;
+padding: 0 !important;
+}
+
+table[class=outer] .media_button_join {
+padding-left: 0 !important;
+padding-right: 0 !important;
+}
+}
+
+</style>
+<table style="position: relative;position:relative;background:#ddd;" class="outer" width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td bgcolor="#dddddd">
+<table bgcolor="#ffffff" class="outer frame" width="670" border="0" align="center" cellpadding="0" cellspacing="0" style="border: 0px; background-color: #ffffff;position:relative;background:#ddd;">
+<tbody>
+<tr>
+<td>
+<table style="position: relative;" class="frame main-content" bgcolor="#ffffff" width="670" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="col col-x cut" style="width:85px;width:75px;font-size:1px;">&nbsp;</td>
+<td valign="top">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="cellspacing">
+<tbody>
+<tr>
+<td class="mid x-mid user" style="padding:10px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#333;padding:0;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#333333;">
+<table class="section-container" width="100%" border="0" cellspacing="0" cellpadding="0" style="background:white;">
+<tbody>
+<tr>
+<td>
+<table class="section-container-inner" width="100%" border="0" cellspacing="0" cellpadding="10">
+<tbody>
+<tr>
+<td class="section-holder">
+<table class="social-proof single" width="100%" border="0" cellspacing="0" style="width:88%;">
+<tbody>
+<tr>
+<th colspan="2" style="padding:0 0 25px;text-align:left;"><h1 class="title-main" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#333333;font-size:22px;margin:0;">Find your friends on Twitter</h1></th>
+</tr>
+<tr>
+<td class="user-avatars" style="padding:0;padding:0 5px 5px 1px;"> <img src="https://ea.twimg.com/email/t1/avatar-default.jpg" width="48" height="48" alt="" style="border:0;display:block;padding:0;margin:0;border-radius:3px;border:none;" /> </td>
+<td style="padding:0;"><p style="margin:0;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#666666;font-size:14px;">Import your email contacts today and get closer to the people you care the most about.</p></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+<td class="col col-x cut" style="width:85px;width:75px;font-size:1px;">&nbsp;</td>
+</tr>
+<tr>
+<td class="col col-x cut styled-x-cut" style="width:85px;width:75px;font-size:1px;">&nbsp;</td>
+<td>
+<table class="styled-x" width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="styled-x-top spacer" height="18" align="left" style="font-size:1px;height:20px!important;">&nbsp;</td>
+</tr>
+<tr>
+<td class="mid x-mid styled styled-m" style="padding:10px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#333;padding:0;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#333333;background:#eee;border-radius:4px;">
+<table class="styled-xx" bgcolor="#EEEEEE" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-radius:6px;border:solid 1px #E5E5E5;background:#EEEEEE;">
+<tbody>
+<tr>
+<td height="10" colspan="4" class="spacer" style="font-size:1px;">&nbsp;</td>
+</tr>
+<tr>
+<td class="cut spacer" width="10" style="font-size:1px;"></td>
+<td class="sign-message" style="line-height:15px;padding-left:1px;"><img src="http://twitter.com/images/email/t1/ico-gmail.png" width="24" height="17" alt="" style="border:0;margin-top:0px;margin-bottom:0px;vertical-align:text-bottom;" />&nbsp;<a href="#" style="border:none;color:#0084b4;text-decoration:none;font-size:12px;color:#777777;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;text-decoration:none;"><span class="suggestions_tip" style="font-size:12px;color:#777777;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;text-decoration:none;">Agile678@gmail.com</span></a></td>
+<td align="right" valign="middle">
+<table bgcolor="#33a9e5" class="button media_button" border="0" cellspacing="0" cellpadding="0" style="background:#33a9e5 url('https://ea.twimg.com/email/t1/button_bg.png') top repeat-x;border-radius:5px;border-color:#2288cc;border-style:solid;border-width:1px;text-align:center;height:28px;padding-left:7px;padding-right:7px;">
+<tbody>
+<tr>
+<td class="spacer" width="10" style="font-size:1px;">&nbsp;</td>
+<td height="28" align="center"> <span class="button_text" style="color:#fff;font-size:13px;text-shadow:0 -1px 0px #3399dd;font-weight:bold;white-space:nowrap;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;"><a class="button_link" href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fwho_to_follow%2Fimport&amp;sig=5f4f6acd0271ce8fd821fba9eaff2391e8859084&amp;uid=1458340819&amp;iid=cc267362-970a-4e2f-b505-0219b9f82e7c&amp;nid=78+877+20130529&amp;t=1" style="border:none;color:#0084b4;text-decoration:none;color:#fff;text-decoration:none;">Find your friends</a></span> </td>
+<td class="spacer" width="10" style="font-size:1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table> </td>
+<td class="cut spacer" width="10" style="font-size:1px;"></td>
+</tr>
+<tr>
+<td height="10" colspan="4" class="spacer" style="font-size:1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td class="styled-x-bottom spacer" height="4" align="left" style="font-size:1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table> </td>
+<td class="col col-x cut styled-x-cut" style="width:85px;width:75px;font-size:1px;">&nbsp;</td>
+</tr>
+<tr class="main-content-gap" style="height:30px!important;">
+<td class="col col-x cut" style="width:85px;width:75px;font-size:1px;">&nbsp;</td>
+<td height="10" class="mid x-mid spacer" style="padding:10px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#333;font-size:1px;padding:0;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#333333;">&nbsp;</td>
+<td class="col col-x cut" style="width:85px;width:75px;font-size:1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>  </td>
+</tr>
+<tr>
+<td>
+<table bgcolor="#eeeeee" border="0" cellpadding="0" cellspacing="0" width="670" class="frame footer" style="background-color:#eee;background-image:url('https://ea.twimg.com/email/t1/shadow-bottom.jpg');background-position:top;background-repeat:repeat-x;border-top-color:#ddd;border-top-style:solid;border-top-width:1px;">
+<tbody>
+<tr>
+<td colspan="4" height="16" class="footer-padding-top"></td>
+</tr>
+<tr>
+<td class="col cut" style="width:85px;"></td>
+<td class="footer_body media_footer" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;line-height:17px;color:#777;text-shadow:0 1px 0 #fff;">
+<div>
+Forgot your Twitter password?
+<a class="reset" href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Faccount%2Fresend_password&amp;sig=f5d73c6d6c8577b4b95889880e513526930e35d0&amp;uid=1458340819&amp;iid=cc267362-970a-4e2f-b505-0219b9f82e7c&amp;nid=78+24+20130529&amp;t=1" style="border:none;color:#0084b4;text-decoration:none;">Get instructions on how to reset it.</a>
+</div>
+<div>
+You can also
+<a href="https://twitter.com/i/u?t=1&amp;sig=f91f7e1c83e457c33e92a4b0fe8442a3993cba20&amp;iid=cc267362-970a-4e2f-b505-0219b9f82e7c&amp;uid=1458340819&amp;nid=78+26+20130529" style="border:none;color:#0084b4;text-decoration:none;">unsubscribe from these emails</a>
+<span class="reset">or change your <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fsettings%2Fnotifications&amp;sig=dfe6fc4e06fdfbeffa510642835ff34af916458c&amp;uid=1458340819&amp;iid=cc267362-970a-4e2f-b505-0219b9f82e7c&amp;nid=78+27+20130529&amp;t=1" style="border:none;color:#0084b4;text-decoration:none;">notification settings</a>. Need <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Fsupport.twitter.com&amp;sig=d5a93ec8dc3f5086b47a0022aac6b1bd71661580&amp;uid=1458340819&amp;iid=cc267362-970a-4e2f-b505-0219b9f82e7c&amp;nid=78+97+20130529&amp;t=1" style="border:none;color:#0084b4;text-decoration:none;">help</a>?</span>
+</div>
+<div class="reset">
+If you received this message in error and did not sign up for Twitter, click
+<a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Faccount%2Fnot_my_account%2FAndiAkhmadF%2F2EHAH-EC534-136995&amp;sig=d3feb914c567ed41853fb4199eecafee307cbbc0&amp;uid=1458340819&amp;iid=cc267362-970a-4e2f-b505-0219b9f82e7c&amp;nid=78+25+20130529&amp;t=1" style="border:none;color:#0084b4;text-decoration:none;">not my account</a>.
+</div>
+<div>
+<a href="#" class="address" style="border:none;color:#0084b4;text-decoration:none;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;text-decoration:none;font-size:11px;line-height:17px;color:#999999;text-shadow:0 1px 0 #fff;">Twitter, Inc. 1355 Market St., Suite 900 <span class="nobreak" style="white-space:nowrap;">San Francisco, CA 94103 </span></a>
+</div> </td>
+<td class="col cut" style="width:85px;"></td>
+</tr>
+<tr>
+<td colspan="3" class="footer-padding-bottom" height="25"></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
+
+------=_Part_7019222_512717192.1369951535667--

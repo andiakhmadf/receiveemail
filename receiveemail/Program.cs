@@ -50,30 +50,50 @@ namespace receiveemail
                 MailClient oClient = new MailClient("TryIt");
                 oClient.Connect(oServer);
 
+                //oClient.GetMailInfosParam.Reset();
+                //oClient.GetMailInfosParam.GetMailInfosOptions = GetMailInfosOptionType.NewOnly;
+
                 MailInfo[] infos = oClient.GetMailInfos();
-                Console.WriteLine("Total {0} email(s)\r\n", infos.Length);
-                for (int i = 0; i < infos.Length; i++)
+                Mail lastEmail = oClient.GetMail(infos.Last());
+
+                string serialNumber = GetSerialNumber(lastEmail.Subject.Trim());
+                string actionName = GetAction(lastEmail.TextBody.Split(','));
+                string comment = GetComment(lastEmail.TextBody.Split(','));
+
+                Console.WriteLine(serialNumber);
+                Console.WriteLine(actionName);
+                Console.WriteLine(comment);
+
+                foreach (var mail in infos.Where(m => m.Read == false))
                 {
-                    MailInfo info = infos[i];
-                    Console.WriteLine("Index: {0}; Size: {1}; UIDL: {2}",
-                        info.Index, info.Size, info.UIDL);
+                    Mail oMail = oClient.GetMail(mail);
+                    Console.WriteLine($"From: {oMail.From.ToString()}");
+                    Console.WriteLine($"Subject: {oMail.Subject}\r\n");
 
-                    // Receive email from IMAP4 server
-                    Mail oMail = oClient.GetMail(info);
-
-                    Console.WriteLine("From: {0}", oMail.From.ToString());
-                    Console.WriteLine("Subject: {0}\r\n", oMail.Subject);
-
-                    // Generate an unqiue email file name based on date time.
-                    string fileName = _generateFileName(i + 1);
-                    string fullPath = string.Format("{0}\\{1}", localInbox, fileName);
-
-                    // Save email to local disk
-                    oMail.SaveAs(fullPath, true);
-
-                    // Mark email as deleted from POP3 server.
-                    oClient.Delete(info);
                 }
+                //Console.WriteLine("Total {0} email(s)\r\n", infos.Length);
+                //for (int i = 0; i < infos.Length; i++)
+                //{
+                //    MailInfo info = infos[i];
+                //    Console.WriteLine("Index: {0}; Size: {1}; UIDL: {2}",
+                //        info.Index, info.Size, info.UIDL);
+
+                //    // Receive email from IMAP4 server
+                //    Mail oMail = oClient.GetMail(info);
+
+                //    Console.WriteLine("From: {0}", oMail.From.ToString());
+                //    Console.WriteLine("Subject: {0}\r\n", oMail.Subject);
+
+                //    // Generate an unqiue email file name based on date time.
+                //    string fileName = _generateFileName(i + 1);
+                //    string fullPath = string.Format("{0}\\{1}", localInbox, fileName);
+
+                //    // Save email to local disk
+                //    oMail.SaveAs(fullPath, true);
+
+                //    // Mark email as deleted from POP3 server.
+                //    oClient.Delete(info);
+                //}
 
                 // Quit and expunge emails marked as deleted from POP3 server.
                 oClient.Quit();
@@ -83,6 +103,21 @@ namespace receiveemail
             {
                 Console.WriteLine(ep.Message);
             }
+        }
+
+        static string GetAction(string[] textBody)
+        {
+            return textBody.First().Trim();
+        }
+
+        static string GetSerialNumber(string subject)
+        {
+            return subject.Split(',').Last().Trim().Substring(3);
+        }
+
+        static string GetComment(string[] textBody)
+        {
+            return textBody.Last().Trim();
         }
     }
 }
